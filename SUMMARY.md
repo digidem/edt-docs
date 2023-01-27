@@ -4,4 +4,4 @@
   * [Features](introduction/features.md)
   * [Getting started](introduction/getting-started.md)
 * [Setup](setup/README.md)
-  * [Device setup](setup/device-setup.md)
+  * [Device setup](introduction/device-setup.md)
