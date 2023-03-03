@@ -1,6 +1,6 @@
 ---
 description: Why and what is Earth Defenders Toolkit Offline?
-cover: .gitbook/assets/IMG_0986.jpg
+cover: .gitbook/assets/IMG_0308 (1).jpg
 coverY: 0
 ---
 
