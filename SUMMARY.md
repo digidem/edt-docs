@@ -3,10 +3,10 @@
 ## Overview
 
 * [Introduction](README.md)
-  * [Features](overview/introduction/features.md)
+  * [Features](introduction/features.md)
   * [Use cases](overview/introduction/use-cases.md)
   * [FAQ](overview/introduction/faq.md)
-* [Getting started](overview/getting-started.md)
+* [Getting started](introduction/getting-started.md)
 
 ## Device usage
 
@@ -31,7 +31,7 @@
 ## Device setup
 
 * [Choosing a device](device-setup/choosing-a-device.md)
-* [Device setup](device-setup/device-setup/README.md)
+* [Device setup](introduction/device-setup.md)
   * [Introduction](device-setup/device-setup/introduction.md)
   * [Single-board-computers](device-setup/device-setup/single-board-computers.md)
   * [Other computers](device-setup/device-setup/other-computers.md)
@@ -43,6 +43,7 @@
 * [Onboarding new device](support-team/onboarding-new-device.md)
 * [Devices dashboard](support-team/devices-dashboard.md)
 * [EDT Cloud](support-team/edt-cloud/README.md)
+  * [Overview](support-team/edt-cloud/overview.md)
   * [Services](support-team/edt-cloud/services.md)
   * [Customizing synced content](support-team/edt-cloud/customizing-synced-content.md)
   * [Managing EDT Cloud](support-team/edt-cloud/managing-edt-cloud.md)
