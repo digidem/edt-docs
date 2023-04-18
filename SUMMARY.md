@@ -28,8 +28,8 @@
   * [Content syncronization](device-usage/bundled-applications/content-syncronization.md)
   * [Application installers](device-usage/bundled-applications/application-installers.md)
   * [Tile server](device-usage/bundled-applications/tile-server.md)
-* [Customizing experience](device-usage/customizing-experience.md)
 * [Managing device](device-usage/managing-device.md)
+* [Customizing experience](device-usage/customizing-experience.md)
 
 ## Device setup
 
