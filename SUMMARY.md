@@ -17,7 +17,7 @@
 * [Bundled applications](device-usage/bundled-applications/README.md)
   * [Mapeo Data Hub](device-usage/bundled-applications/mapeo-data-hub/README.md)
     * [Syncing with Hub](device-usage/bundled-applications/mapeo-data-hub/syncing-with-hub.md)
-    * [Observation maps](device-usage/bundled-applications/mapeo-data-hub/observation-maps.md)
+    * [Observations map](device-usage/bundled-applications/mapeo-data-hub/observations-map.md)
     * [Mapeo Observations as Terrastories Places](device-usage/bundled-applications/mapeo-data-hub/mapeo-observations-as-terrastories-places.md)
     * [Customization](device-usage/bundled-applications/mapeo-data-hub/customization.md)
   * [Pataka](device-usage/bundled-applications/pataka.md)
