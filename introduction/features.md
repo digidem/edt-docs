@@ -8,6 +8,6 @@ Even on offline environments, devices (mobile or desktop) in good range from WiF
 * A [Mapeo](https://mapeo.app/) instance
 * An interactive map showing Mapeo observations that have been synced with device
 * File browsing application for storing and sharing files, similar to Google Drive
-* Syncing of content, from [EDT Cloud](../support-team/edt-cloud/) to local computer, or from local computer to any other device, including mobile devices, locally or through the Internet
+* Syncing of content, from [EDT Cloud](../support-team/online-cloud/) to local computer, or from local computer to any other device, including mobile devices, locally or through the Internet
 * Automatic syncing of default content (scrapped websites, application installers, Mapeo configs, map tiles)
 * Automatic creation of files that can be imported into Terrastories, from synced Mapeo observations
