@@ -41,7 +41,7 @@ And finally you’ll need a storage, which should be at least class 10 micro-sd 
 
 #### Cheap, powerful CPU and WiFi, but harder to setup
 
-![Zimaboard with PCI express Wifi module](../.gitbook/assets/zimaboard\_wifi.jpg)
+![Zimaboard with PCI express Wifi module](<../.gitbook/assets/zimaboard\_wifi (1).jpg>)
 
 Any old desktop of notebook can serve as an EDT Offline device, but they’re a bit harder to setup, and they usually require entering the computer’s BIOS and change some settings to set USB as primary device to boot from. That will require are least a key board and a screen, and appropriate cables to connect to it.
 

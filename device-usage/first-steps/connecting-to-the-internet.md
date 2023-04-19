@@ -8,4 +8,6 @@ Your device can connect to a local WiFi hotspot in order to gain access to the i
 
 To test it out go to the admin panel, and to the **Networking** tab, usually located at:  [http://edt.local:8079/#/networking](http://edt.local:8079/#/networking)
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 The device will scan for nearby wifi hotspots. You can then select the one to connect to, enter the password and connect.
