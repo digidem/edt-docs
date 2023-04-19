@@ -36,7 +36,7 @@
 * [Introduction](device-setup/introduction.md)
 * [Choosing a device](device-setup/choosing-a-device.md)
 * [Single-board-computers](device-setup/single-board-computers.md)
-* [Other computers](device-setup/other-computers.md)
+* [Regular computers](device-setup/regular-computers.md)
 * [Using Docker](device-setup/using-docker.md)
 * [Troubleshooting](device-setup/troubleshooting.md)
 
