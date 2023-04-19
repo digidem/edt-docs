@@ -4,10 +4,6 @@ There are a multitude of different boards that can be used to run EDT Offline. F
 
 <img src="../.gitbook/assets/pi4_rockpi_zima (1).jpg" alt="" data-size="original"> Raspberry Pi 4, Rock Pi 4, ZimaBoard
 
-
-
-There are a multitude of different boards that can be used to run EDT Offline. From recycled hardware, such as old computers to tiny, low-power single-board-computers.
-
 Some important things to pay attention when choosing the right device:
 
 * Ease to setup (single-board-computers are always easier)
@@ -21,8 +17,6 @@ Some important things to pay attention when choosing the right device:
 #### Easiest to setup, but more expensive and less CPU and WiFi power
 
 ![Rock Pi 4 with casing](https://cdn.shopify.com/s/files/1/0248/6557/0909/products/DSC01592\_900x600.jpg?v=1636979793)
-
-Rock Pi 4 with casing
 
 Single-board-computers are the easiest to setup. We’ve tested on the Raspberry Pi 4 and Rock Pi 4, and had great results. The Raspberry 3 should be able to handle as well, but we haven’t tested yet.
 
@@ -47,9 +41,7 @@ And finally you’ll need a storage, which should be at least class 10 micro-sd 
 
 #### Cheap, powerful CPU and WiFi, but harder to setup
 
-![](<../.gitbook/assets/zimaboard\_wifi (1).jpg>)
-
-_Zimaboard with PCI express Wifi module_
+![Zimaboard with PCI express Wifi module](<../.gitbook/assets/zimaboard\_wifi (1).jpg>)
 
 Any old desktop of notebook can serve as an EDT Offline device, but they’re a bit harder to setup, and they usually require entering the computer’s BIOS and change some settings to set USB as primary device to boot from. That will require are least a key board and a screen, and appropriate cables to connect to it.
 
