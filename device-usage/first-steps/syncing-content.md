@@ -6,7 +6,7 @@ The first time a device is connected it’ll send a request to Earth Defenders T
 
 <figure><img src="../../.gitbook/assets/Untitled 5.png" alt=""><figcaption></figcaption></figure>
 
-Get in touch with us on [support.md](../../support.md "mention")and send along your Syncthing along with other information.
+Get in touch with us on [support.md](../../support.md "mention")and send along your Syncthing ID along with other information.
 
 Once we authorize syncing from the EDT Cloud the local Offline Toolkit should start displaying syncing information:
 

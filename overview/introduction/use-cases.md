@@ -1,10 +1,10 @@
 # Use cases
 
-EDT Offline is intended to be used by a group that has a common physical meeting space, which is the coverage area of the device's wifi. That coverage area can be small or large depending on the devices wifi radio, but can expand to cover large areas, such as villages, by connecting them to routers and expanded through mesh networks.
+The Earth Defenders Offline Toolkit is intended to be used by a group that has a common physical meeting space, which is the coverage area of the device's wifi. That coverage area can be small or large depending on the devices wifi radio, but can expand to cover large areas, such as villages, by connecting them to routers and expanded through mesh networks.
 
-EDT Offline is meant to help groups onboard new users to the tools curated on the Earth Defenders Toolkit platform, as well as provide common helpful assets and helper applications for these tools. It can also assist organizing data in a local offline environment, and provide ways to sync and share data locally or through the Internet. It's also a great tool for partner organizations to organize and synchronize data with the ground communities.
+Offline Toolkit is meant to help groups onboard new users to the tools curated on the Earth Defenders Toolkit platform, as well as provide common helpful assets and helper applications for these tools. It can also assist organizing data in a local offline environment, and provide ways to sync and share data locally or through the Internet. It's also a great tool for partner organizations to organize and synchronize data with the ground communities.
 
-Some EDT-Offline devices (such as single-board-computers) are small, but aren't so fragile, and with appropriate casing, they can easily travel within a backpack together with clothes.
+Some Offline Toolkit devices (such as single-board-computers) are small, but aren't so fragile, and with appropriate casing, they can easily travel within a backpack together with clothes.
 
 The toolkit can be used mobile, during meetings or fieldwork with the right power supply and weather protection.
 
