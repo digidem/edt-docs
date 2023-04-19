@@ -10,9 +10,7 @@ Is a custom made application for the Offline Toolkit that intends to enable brid
 
 #### [pataka.md](pataka.md "mention")
 
-An instance of Ahau's [Pataka](https://gitlab.com/ahau/pataka), an application designed to be run as an always online peer. Ideally this peer is set up with a static, public IP address, (or port forwarding from one).
-
-This peer is not able to decrypt any messages (or file) that are private to groups, but will replicate these messages (and files) to ensure they are accessible even when the creator is offline, or so there is a backup.
+An instance of Ahau's [Pataka](https://gitlab.com/ahau/pataka) application.
 
 #### [terrastories.md](terrastories.md "mention")
 
