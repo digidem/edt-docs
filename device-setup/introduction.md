@@ -8,7 +8,7 @@ description: What are the basic technical skills needed for this setup?
 
 The process for preparing a device to run Earth Defenders Offline Toolkit requires a notebook or desktop computer, used to "burn" images to sd cards or usb flash drives. So basic skills on using them is required.
 
-For help with common technical issues, see the [faq.md](../overview/introduction/faq.md "mention") section of this guide. For additional support, please check out the community of active users and maintainers of the Earth Defenders Toolkit on our public [Discord](https://discord.gg/ZDPWMyQP), [Telegram](https://t.me/+3t9fPkrkg4oxNjU5) group and [online forum](https://forum.earthdefenderstoolkit.com/).
+For help with common technical issues, see the [troubleshooting.md](troubleshooting.md "mention") section of this guide. For additional help, see the [support.md](../support.md "mention") section.
 
 ### Different processes
 

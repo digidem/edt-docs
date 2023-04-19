@@ -37,6 +37,7 @@
 * [Choosing a device](device-setup/choosing-a-device.md)
 * [Single-board-computers](device-setup/single-board-computers.md)
 * [Regular computers](device-setup/other-computers.md)
+* [Using Balena Cloud](device-setup/using-balena-cloud.md)
 * [Using Docker](device-setup/using-docker.md)
 * [Troubleshooting](device-setup/troubleshooting.md)
 
