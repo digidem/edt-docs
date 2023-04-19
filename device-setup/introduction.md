@@ -12,7 +12,7 @@ For help with common technical issues, see the [faq.md](../overview/introduction
 
 ### Different processes
 
-Any old computer can be recycled to run the Earth Defenders Offline Toolkit software stack. Ideally you should format old machines to run our light Operating System, see [regular-computers.md](regular-computers.md "mention").
+Any old computer can be recycled to run the Earth Defenders Offline Toolkit software stack. Ideally you should format old machines to run our light Operating System, see [other-computers.md](other-computers.md "mention").
 
 The Offline Toolkit can also run the services alongside your existing Operating System see [using-docker.md](using-docker.md "mention"). This process is unsupported and disconnected from Balena Cloud, thus respects data sovereignty.
 
