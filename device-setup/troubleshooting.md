@@ -1,3 +1,3 @@
 # Troubleshooting
 
-Check the&#x20;
+Get in touch with us for [support.md](../support.md "mention").

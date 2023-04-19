@@ -41,7 +41,7 @@ And finally you’ll need a storage, which should be at least class 10 micro-sd 
 
 #### Cheap, powerful CPU and WiFi, but harder to setup
 
-![Zimaboard with PCI express Wifi module](<../.gitbook/assets/zimaboard\_wifi (1).jpg>)
+![Zimaboard with PCI express Wifi module](../.gitbook/assets/zimaboard\_wifi.jpg)
 
 Any old desktop of notebook can serve as an EDT Offline device, but they’re a bit harder to setup, and they usually require entering the computer’s BIOS and change some settings to set USB as primary device to boot from. That will require are least a key board and a screen, and appropriate cables to connect to it.
 
@@ -61,7 +61,7 @@ It’s one of the cheapest boards you can get, with the smallest form-factor. It
 * [PCIe WiFi Adapter](https://www.amazon.com/dp/B08J8BHBXJ?psc=1\&ref=ppx\_yo2ov\_dt\_b\_product\_details)
 * [Mini Display to HDMI Adapter](https://www.amazon.com/dp/B0134V3KIA?psc=1\&ref=ppx\_yo2ov\_dt\_b\_product\_details)
 
-### Other potential devices
+### Full list of potential devices
 
 #### Single Board Computers
 
