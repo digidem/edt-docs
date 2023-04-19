@@ -26,21 +26,7 @@ Once the new content is uploaded we can sync it to EDT devices.
 
 ### 3. Sync it
 
-Navigate to the [Syncthing service](http://sync.earthdefenderstoolkit.com/) on the EDT cloud.
-
-Now let’s add the folder that was uploaded on the previous step:
-
-<figure><img src="../../.gitbook/assets/Untitled 2.png" alt=""><figcaption></figcaption></figure>
-
-Add a descriptive label to the new folder. We’ve been using a pattern where the data type comes first, and a short title for it later.
-
-The content directory is named `/data` directory here, so from find your folder under it.
-
-<figure><img src="../../.gitbook/assets/Untitled 3.png" alt=""><figcaption></figcaption></figure>
-
-Before clicking save, go to the **Advanced** tab. It’s worth changing the **Folder Type** to **Send Only** as most times we want a single source of truth for the content
-
-Finally we can click save.
+Navigate to the [Syncthing service](http://sync.earthdefenderstoolkit.com/) on the EDT cloud and follow the same steps as in [content-syncronization.md](../../device-usage/bundled-applications/content-syncronization.md "mention").
 
 ### 4. Adding to device
 

@@ -6,11 +6,7 @@ description: These are the bundled applications that come with the Offline Toolk
 
 #### [mapeo-data-hub](mapeo-data-hub/ "mention")
 
-Is a custom made application for the Offline Toolkit that intends to enable bridging content from Mapeo to Terrastories, as well as providing a better experience for Mapeo users. It can be used for:
-
-* Synchronizing Mapeo data from local devices
-* Displaying all observation data on a local offline map
-* Generating a compatible `csv` file that can be import into Terrastories as a Story Place
+Is a custom made application for the Offline Toolkit that intends to enable bridging content from Mapeo to Terrastories, as well as providing a better experience for Mapeo users.
 
 #### [pataka.md](pataka.md "mention")
 
