@@ -54,6 +54,13 @@ docker exec tailscaled tailscale up --advertise-routes=10.0.3.0/24 --accept-rout
 
 Don't forget to also enable the subnets. And now on your machine you should be able to access services on the balena device's ip.
 
+### Using remote device
+
+In order for Terrastories and the offline map on both Terrastories and Observations Map to work remotely you'll need to set the device's variables to use the tunneled ip:
+
+* `HOST_HOSTNAME` ex.: 100.96.14.113
+* `OFFLINE_MAP_STYLE` ex.: http://100.96.14.113:8085/styles/terrastories-map/style.json
+
 ### Setting up a virtual-machine
 
 Read details on the [official repository](https://github.com/balena-labs-research/balena-virt).
