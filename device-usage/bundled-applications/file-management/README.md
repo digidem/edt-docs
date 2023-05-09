@@ -4,6 +4,8 @@ With the bundled Filebrowser application, community members can create their own
 
 An administrator can manage users, and different settings and have private content.
 
+The default username is `admin` and password is `admin123.`
+
 Check guides on:
 
 * [storing-locally.md](storing-locally.md "mention")

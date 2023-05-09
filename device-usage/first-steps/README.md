@@ -2,7 +2,11 @@
 
 Make sure you have a device which was previously setup with the Earth Defenders Offline Toolkit.&#x20;
 
-Connect the device to the power supply and make sure device is turned on by checking lights blinking.
+(picture here)
+
+If your device has an external WiFi card, connect the card to the device before turning it on. If there are external antennas, make sure to connect those.
+
+Connect the device to the power supply and make sure device is turned on by checking lights are on. If there's an external WiFi card, it should also turn on.
 
 After a couple of minutes verify WiFi hotspot appears on user devices. Connect to hotspot and open captive portal (for desktop, captive-portal may not show).
 

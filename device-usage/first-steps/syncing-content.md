@@ -2,6 +2,8 @@
 
 The Earth Defenders Offline Toolkit comes with an instance of [Syncthing](https://syncthing.net/) running, usually on the address: [http://edt.local:8082](http://edt.local:8082)
 
+The default username is `admin` and password is `admin123.`
+
 The first time a device is connected it’ll send a request to Earth Defenders Toolkit Cloud to start syncing content. Get the ID from the the local Offline Toolkit Syncthing instance:
 
 <figure><img src="../../.gitbook/assets/Untitled 5.png" alt=""><figcaption></figcaption></figure>
