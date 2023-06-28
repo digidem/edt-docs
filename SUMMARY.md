@@ -1,4 +1,4 @@
-"# Tabla de contenidos
+# Table of contents
 
 ## Vista general
 
@@ -34,8 +34,8 @@
 ## Configuración del dispositivo
 
 * [Introducción](device-setup/introduction.md)
-* [Elección de un dispositivo](device-setup/choosing-a-device.md)".* [Computadoras de una sola placa](configuracion-del-dispositivo/computadoras-de-una-sola-placa.md)
-* [Computadoras regulares](configuracion-del-dispositivo/otras-computadoras.md)
+* [Elección de un dispositivo](device-setup/choosing-a-device.md)
+* [Computadoras regulares](configuracion-del-dispositivo/computadoras-regulares.md)
 * [Usando Balena Cloud](configuracion-del-dispositivo/usando-balena-cloud.md)
 * [Usando Docker](configuracion-del-dispositivo/usando-docker.md)
 * [Solución de problemas](configuracion-del-dispositivo/solucion-de-problemas.md)

@@ -1,0 +1,2 @@
+# Personalización de contenido sincronizado
+
