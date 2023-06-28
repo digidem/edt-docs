@@ -1,37 +1,35 @@
 ---
-description: These are the bundled applications that come with the Offline Toolkit.
+descripción: Estas son las aplicaciones incluidas que vienen con la herramienta Offline Toolkit.
 ---
 
-# Bundled applications
+# Aplicaciones incluidas
 
-#### [mapeo-data-hub](mapeo-data-hub/ "mention")
+#### [mapeo-data-hub](mapeo-data-hub/ "mención")
 
-Is a custom made application for the Offline Toolkit that intends to enable bridging content from Mapeo to Terrastories, as well as providing a better experience for Mapeo users.
+Es una aplicación hecha a medida para la herramienta Offline Toolkit que pretende permitir la conexión de contenido desde Mapeo a Terrastories, así como proporcionar una mejor experiencia para los usuarios de Mapeo.
 
-#### [pataka.md](pataka.md "mention")
+#### [pataka.md](pataka.md "mención")
 
-An instance of Ahau's [Pataka](https://gitlab.com/ahau/pataka) application.
+Una instancia de la aplicación [Pataka](https://gitlab.com/ahau/pataka) de Ahau.
 
-#### [terrastories.md](terrastories.md "mention")
+#### [terrastories.md](terrastories.md "mención")
 
-An instance of [Terrastories](https://terrastories.app/) application.
+Una instancia de la aplicación [Terrastories](https://terrastories.app/).
 
-#### [file-management](file-management/ "mention")
+#### [file-management](file-management/ "mención")
 
-An instance of [FileBrowser](https://filebrowser.org/) application.
+Una instancia de la aplicación [FileBrowser](https://filebrowser.org/).
 
-#### [content-syncronization.md](content-syncronization.md "mention")
+#### [content-syncronization.md](content-syncronization.md "mención")
 
-An instance of [Syncthing](https://syncthing.net/) application that's pre-configured to send a sync requests for content folders to the official EDT Cloud.
+Una instancia de la aplicación [Syncthing](https://syncthing.net/) que está preconfigurada para enviar solicitudes de sincronización para carpetas de contenido a la nube oficial de EDT.
 
-It can be customized to sync other folders by default, or used to sync any folder on the device. There are also mobile and desktop applications to sync with any device easily.
+Se puede personalizar para sincronizar otras carpetas por defecto, o usarse para sincronizar cualquier carpeta en el dispositivo. También hay aplicaciones móviles y de escritorio para sincronizar con cualquier dispositivo fácilmente.
 
-#### [application-installers.md](application-installers.md "mention")
+#### [application-installers.md](application-installers.md "mención")
 
-A simple custom made application that displays the installers for curated applications.
+Una aplicación sencilla hecha a medida que muestra los instaladores para aplicaciones seleccionadas.
 
-#### [tile-server.md](tile-server.md "mention")
+#### [tile-server.md](tile-server.md "mención")
 
-An instance of [Tileserver](https://github.com/maptiler/tileserver-gl).
-
-####
+Una instancia de [Tileserver](https://github.com/maptiler/tileserver-gl).

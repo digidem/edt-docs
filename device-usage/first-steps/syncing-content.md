@@ -1,18 +1,17 @@
-# Syncing content
+# Sincronización de contenido
 
-The Earth Defenders Offline Toolkit comes with an instance of [Syncthing](https://syncthing.net/) running, usually on the address: [http://edt.local:8082](http://edt.local:8082)
+El Kit sin Conexión de Defensores de la Tierra viene con una instancia de [Syncthing](https://syncthing.net/) funcionando, por lo general en la dirección: [http://edt.local:8082](http://edt.local:8082)
 
-The default username is `admin` and password is `admin123.`
+El nombre de usuario predeterminado es `admin` y la contraseña es `admin123`.
 
-The first time a device is connected it’ll send a request to Earth Defenders Toolkit Cloud to start syncing content. Get the ID from the the local Offline Toolkit Syncthing instance:
+La primera vez que se conecta un dispositivo, enviará una solicitud a la Nube del Kit sin Conexión de Defensores de la Tierra para comenzar a sincronizar contenido. Obtenga el ID de la instancia local de Syncthing sin conexión del kit:
 
 <figure><img src="../../.gitbook/assets/Untitled 5.png" alt=""><figcaption></figcaption></figure>
 
-Get in touch with us on [support.md](../../support.md "mention")and send along your Syncthing ID along with other information.
+Ponte en contacto con nosotros en [support.md](../../support.md "mention") y envía tu ID de Syncthing junto con otra información.
 
-Once we authorize syncing from the EDT Cloud the local Offline Toolkit should start displaying syncing information:
+Una vez que autorizamos la sincronización desde la Nube del EDT, el Kit sin Conexión local debería comenzar a mostrar la información de sincronización:
 
 <figure><img src="../../.gitbook/assets/Untitled 10.png" alt=""><figcaption></figcaption></figure>
 
-Syncing can take a while because it's a few gigabytes of content. Once that's done, all content should be ready for offline use.
-
+La sincronización puede tardar un poco porque son varios gigabytes de contenido. Una vez que se complete, todo el contenido debería estar listo para su uso sin conexión.

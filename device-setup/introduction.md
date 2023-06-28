@@ -1,41 +1,39 @@
 ---
-description: What are the basic technical skills needed for this setup?
+descripción: ¿Cuáles son las habilidades técnicas básicas necesarias para esta configuración?
 ---
 
-# Introduction
+# Introducción
 
-> ⚠️ Beware that during Beta we're relying on the service Balena Cloud by a company, and they have back doors to all devices.&#x20;
+> ⚠️ Tenga en cuenta que durante la versión beta, confiamos en el servicio Balena Cloud de una empresa, y tienen puertas traseras para todos los dispositivos.&#x20;
 
-The process for preparing a device to run Earth Defenders Offline Toolkit requires a notebook or desktop computer, used to "burn" images to sd cards or usb flash drives. So basic skills on using them is required.
+El proceso para preparar un dispositivo para ejecutar la Earth Defenders Offline Toolkit requiere una computadora portátil o de escritorio, utilizada para "quemar" imágenes en tarjetas SD o unidades flash USB. Por lo tanto, se requieren habilidades básicas para su uso.
 
-For help with common technical issues, see the [troubleshooting.md](troubleshooting.md "mention") section of this guide. For additional help, see the [support.md](../support.md "mention") section.
+Para obtener ayuda con problemas técnicos comunes, consulte la sección [troubleshooting.md](troubleshooting.md "mencionada") de esta guía. Para obtener ayuda adicional, consulte la sección [support.md](../support.md "mencionada").
 
-### Different processes
+### Diferentes procesos
 
-Any old computer can be recycled to run the Earth Defenders Offline Toolkit software stack. Ideally you should format old machines to run our light Operating System, see [other-computers.md](other-computers.md "mention").
+Cualquier vieja computadora puede ser reciclada para ejecutar el software stack de Earth Defenders Offline Toolkit. Idealmente, debería formatear las máquinas antiguas para ejecutar nuestro sistema operativo ligero, consulte [other-computers.md] (other-computers.md "mencionado").
 
-The Offline Toolkit can also run the services alongside your existing Operating System see [using-docker.md](using-docker.md "mention"). This process is unsupported and disconnected from Balena Cloud, thus respects data sovereignty.
+La Toolkit sin conexión también puede ejecutar los servicios junto con su sistema operativo existente, consulte [using-docker.md](using-docker.md "mencionado"). Este proceso no está respaldado y está desconectado de Balena Cloud, por lo que respeta la soberanía de los datos.
 
-If the intention to purchase a new device for this purpose, we encourage buying a single-board-computer, as they tend to be cheaper, more mobile, uses less energy and are easier to setup, see [single-board-computers.md](single-board-computers.md "mention").
+Si la intención es comprar un nuevo dispositivo con este propósito, le recomendamos que compre una computadora de una sola tarjeta, ya que tienden a ser más baratas, más móviles, consumen menos energía y son más fáciles de configurar, consulte [single-board-computers.md](single-board-computers.md "mencionado").
 
-### Supported Installations
+### Instalaciones compatibles
 
-The Digital Democracy team will have access to the device and all data, but will not access or extract data without consent. We'll monitor devices for software and hardware problems, so we can provide support.
+El equipo de Digital Democracy tendrá acceso al dispositivo y a todos los datos, pero no accederá ni extraerá datos sin consentimiento. Monitorearemos los dispositivos en busca de problemas de software y hardware, para que podamos brindar soporte.
 
-But the Balena company will also have backdoors into the device, which most probably won't be used, but **can** be used.
+Pero la compañía Balena también tendrá acceso a las puertas traseras del dispositivo, que probablemente no se usarán, pero **pueden** usarse.
 
-We currently generate supported ready-to-use images that can be flashed into any regular computer and selected single-board-computers.
+Actualmente generamos imágenes de soporte listas para usar que se pueden grabar en cualquier computadora regular y en determinadas computadoras de tablero único seleccionadas.
 
-To see all released support-mode images head to: [http://releases.earthdefenderstoolkit.com](http://releases.earthdefenderstoolkit.com/)
+Para ver todas las imágenes de modo de soporte lanzadas, visite: [http://releases.earthdefenderstoolkit.com](http://releases.earthdefenderstoolkit.com/) ".Continúa hacia [choosing-a-device.md](choosing-a-device.md "mención") para encontrar el dispositivo que mejor se adapte a tus necesidades.
 
-Continue to [choosing-a-device.md](choosing-a-device.md "mention") to find the best fit for your needs.
+### Instalaciones no compatibles
 
-### Unsupported installations
+El proceso es muy similar al proceso compatible, pero en lugar de descargar nuestra imagen, crearás la tuya usando Balena Cloud. Haz clic en [aquí](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/digidem/edt-offline) y Balena te guiará por el proceso.
 
-The process is very similar to the supported one, but instead of downloading our image you'll create your own using Balena Cloud. Simply click [here](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/digidem/edt-offline) and Balena will walk you through the process.
+Generarás tu propia imagen, pero ejecutando nuestro software. De esta manera, podrás administrar tu propio conjunto de dispositivos.
 
-You'll generate your own image, but running our software. That way you can manage your own fleet of devices.
+Revisa [connecting-to-the-internet.md](../device-usage/first-steps/connecting-to-the-internet.md "mención") y [syncing-content.md](../device-usage/first-steps/syncing-content.md "mención") para aprender cómo obtener el contenido de tu kit sin conexión.
 
-Check [connecting-to-the-internet.md](../device-usage/first-steps/connecting-to-the-internet.md "mention") and [syncing-content.md](../device-usage/first-steps/syncing-content.md "mention") to learn how to get the content for your Offline Toolkit.
-
-You'll still need to get in touch with us at least to authorize syncing the content, see [support.md](../support.md "mention").
+Aún necesitarás ponerte en contacto con nosotros, al menos para autorizar la sincronización del contenido, consulta [support.md](../support.md "mención").

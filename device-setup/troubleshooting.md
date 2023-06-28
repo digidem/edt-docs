@@ -1,3 +1,3 @@
-# Troubleshooting
+# Solución de problemas 
 
-Get in touch with us for [support.md](../support.md "mention").
+Póngase en contacto con nosotros para obtener [soporte.md](../soporte.md "mención").

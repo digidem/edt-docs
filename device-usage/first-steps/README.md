@@ -1,21 +1,21 @@
-# First steps
+# Primeros pasos
 
-Make sure you have a device which was previously setup with the Earth Defenders Offline Toolkit.&#x20;
+Asegúrese de tener un dispositivo que haya sido configurado previamente con la Earth Defenders Offline Toolkit.&#x20;
 
-(picture here)
+(imagen aquí)
 
-If your device has an external WiFi card, connect the card to the device before turning it on. If there are external antennas, make sure to connect those.
+Si su dispositivo tiene una tarjeta WiFi externa, conéctela al dispositivo antes de encenderlo. Si hay antenas externas, asegúrese de conectarlas.
 
-Connect the device to the power supply and make sure device is turned on by checking lights are on. If there's an external WiFi card, it should also turn on.
+Conecte el dispositivo a la fuente de alimentación y asegúrese de que esté encendido verificando que las luces estén encendidas. Si hay una tarjeta WiFi externa, también debería encenderse.
 
-After a couple of minutes verify WiFi hotspot appears on user devices. Connect to hotspot and open captive portal (for desktop, captive-portal may not show).
+Después de un par de minutos, verifique que el hotspot WiFi aparece en los dispositivos del usuario. Conéctese al hotspot y abra el portal cautivo (para el escritorio, el portal cautivo puede no aparecer).
 
-Finally, with the portal open, copy the provided url, open your preferred browser, paste the url and load the page. You're ready to start exploring.
+Finalmente, con el portal abierto, copie la URL proporcionada, abra su navegador preferido, pegue la URL y cargue la página. Está listo para empezar a explorar.
 
-If some content isn't showing up it might be that you're device hasn't synchronized content yet. For that you'll need to connect the device to the Internet, get in touch with us, and we'll allow your device to synchronize content with the Earth Defenders Toolkit Cloud.
+Si algunos contenidos no aparecen, puede ser que su dispositivo aún no haya sincronizado el contenido. Para esto, deberá conectar el dispositivo a Internet, ponerse en contacto con nosotros y permitir que su dispositivo sincronice el contenido con la nube de Earth Defenders Toolkit.
 
-Check guides on:
+Consulte las guías en:
 
-* [connecting-to-the-internet.md](connecting-to-the-internet.md "mention")
-* [syncing-content.md](syncing-content.md "mention")
-* [exploring-content.md](exploring-content.md "mention")
+* [conexión-a-internet.md](conexión-a-internet.md "mencionar")
+* [sincronización-de-contenido.md](sincronización-de-contenido.md "mencionar")
+* [exploración-de-contenido.md](exploración-de-contenido.md "mencionar")".

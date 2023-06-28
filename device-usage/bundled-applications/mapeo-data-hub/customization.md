@@ -1,13 +1,13 @@
-# Customization
+# Personalización
 
-You're project might have a secret key already setup, and so your Mapeo device isn't able to find the Mapeo Hub locally.
+Es posible que su proyecto ya tenga una clave secreta configurada y, por lo tanto, su dispositivo Mapeo no pueda encontrar el Mapeo Hub localmente.
 
-Check [customizing-experience.md](../../customizing-experience.md "mention")for instructions on how to change variables.
+Consulte [customizing-experience.md](../../customizing-experience.md "mención") para obtener instrucciones sobre cómo cambiar las variables.
 
-You can change project key for Mapeo: `MAPEO_PROJECT_KEY`
+Puede cambiar la clave del proyecto para Mapeo: `MAPEO_PROJECT_KEY`
 
-Add your projects key which can be obtained from the Mapeo sync screen.
+Agregue la clave de sus proyectos, la cual se puede obtener en la pantalla de sincronización de Mapeo.
 
-Change Mapeo category that Terrastories place's will be collected from: `MAPEO_TERRASTORIES_TYPE`
+Cambie la categoría de Mapeo donde se recopilarán los lugares de Terrastories: `MAPEO_TERRASTORIES_TYPE`
 
-Every observation of that category will be included in the csv with Story Places for Terrastories to import.
+Todas las observaciones de esa categoría se incluirán en el archivo CSV con los lugares de historia (Story Places) para que Terrastories los importe.

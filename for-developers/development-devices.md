@@ -1,14 +1,14 @@
-# Development devices
+# Dispositivos de desarrollo
 
-### Tunneling to a development device
+### Túnel hacia un dispositivo de desarrollo
 
-In order to make it easier to debug and do QA testing on a feature or a release, it's helpful to expose the virtual device's services. We can use [tailscale](https://tailscale.com) for that.
+Para facilitar la depuración y realizar pruebas de control de calidad en una función o una liberación, es útil exponer los servicios del dispositivo virtual. Podemos hacer uso de [tailscale](https://tailscale.com) para eso.
 
-SSH into the virtual Balena device using the **UUID** which can be obtained from the Balena dashboard:
+Inicie sesión por SSH en el dispositivo virtual Balena utilizando el **UUID**, el cual se puede obtener en el panel de control de Balena:
 
 `balena ssh <uuid>`
 
-Within the virtual Balena environment, run:
+Dentro del entorno virtual Balena, ejecute:
 
 ```
 balena run -d \
@@ -22,17 +22,17 @@ balena run -d \
     tailscale/tailscale tailscaled
 ```
 
-And to start the **tailscale** service, run:
+Y para comenzar el servicio de **tailscale**, ejecute:
 
 ```
 balena exec tailscaled tailscale up --advertise-routes=10.0.3.0/24 --accept-routes --reset
 ```
 
-The Tailscale container will provide you a URL to access that adds the device to your Tailscale account.
+El contenedor de Tailscale le proporcionará una URL para acceder que agrega el dispositivo a su cuenta de Tailscale.
 
-Then [enable the subnets](https://tailscale.com/kb/1019/subnets/#step-3-enable-subnet-routes-from-the-admin-console) from your Tailscale admin panel to be able to use all the devices locally through the IP addresses they are assigned by Balena Virt.
+Luego [habilite las subredes](https://tailscale.com/kb/1019/subnets/#step-3-enable-subnet-routes-from-the-admin-console) desde su panel de administración de Tailscale para poder utilizar todos los dispositivos localmente a través de las direcciones IP que les asigna Balena Virt.
 
-On your own machine run:
+En su propio dispositivo ejecute:
 
 ```
 docker run -d \
@@ -46,28 +46,27 @@ docker run -d \
     tailscale/tailscale tailscaled
 ```
 
-And to start tailscale:
+Y para iniciar Tailscale:
 
 ```
 docker exec tailscaled tailscale up --advertise-routes=10.0.3.0/24 --accept-routes --reset
 ```
 
-Don't forget to also enable the subnets. And now on your machine you should be able to access services on the balena device's ip.
+No olvide habilitar también las subredes. Ahora en su dispositivo debería poder acceder a los servicios a través de la dirección IP del dispositivo Balena.
 
-### Using remote device
+### Usando el dispositivo remoto
 
-In order for Terrastories and the offline map on both Terrastories and Observations Map to work remotely you'll need to set the device's variables to use the tunneled ip:
+Para que Terrastories y el mapa sin conexión en Terrastories y Observations Map funcionen de forma remota, debe establecer las variables del dispositivo para utilizar la dirección IP tunelizada:
 
-* `HOST_HOSTNAME` ex.: 100.96.14.113
-* `OFFLINE_MAP_STYLE` ex.: http://100.96.14.113:8085/styles/terrastories-map/style.json
+* `HOST_HOSTNAME` ej.: 100.96.14.113".* `OFFLINE_MAP_STYLE` por ejemplo: http://100.96.14.113:8085/styles/terrastories-map/style.json
 
-### Setting up a virtual-machine
+### Configurando una máquina virtual
 
-Read details on the [official repository](https://github.com/balena-labs-research/balena-virt).
+Lea los detalles en el [repositorio oficial](https://github.com/balena-labs-research/balena-virt).
 
-Make sure you have a Balena Fleet with **generic x86\_64 (GPT)** as the **Default device type**.
+Asegúrese de tener una flota Balena con **generic x86\_64 (GPT)** como el **Dispositivo predeterminado**.
 
-On a Digital Ocean droplet with at least 25Gbs of storage and 1Gb of ram, and latest Docker pre-installed, run:
+En un droplet de Digital Ocean con al menos 25 GB de almacenamiento, 1 GB de RAM y la última versión de Docker preinstalada, ejecute:
 
 ```
 docker run -it \
@@ -85,5 +84,4 @@ docker run -it \
     ghcr.io/balena-labs-research/balena-virt:latest
 ```
 
-After a few seconds a new device should appear on your amd64 and should start updating itself with latest release for the Fleet.
-
+Después de unos segundos, debería aparecer un nuevo dispositivo en su amd64 y debería comenzar a actualizarse con la última versión para la flota.

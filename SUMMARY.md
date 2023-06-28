@@ -1,67 +1,66 @@
-# Table of contents
+"# Tabla de contenidos
 
-## Overview
+## Vista general
 
-* [Introduction](README.md)
-  * [Features](introduction/features.md)
-  * [Use cases](overview/introduction/use-cases.md)
-  * [FAQ](overview/introduction/faq.md)
-* [Getting started](introduction/getting-started.md)
+* [Introducción](README.md)
+  * [Características](introduction/features.md)
+  * [Casos de uso](overview/introduction/use-cases.md)
+  * [Preguntas frecuentes](overview/introduction/faq.md)
+* [Empezando](introduction/getting-started.md)
 
-## Device usage
+## Uso del dispositivo
 
-* [First steps](device-usage/first-steps/README.md)
-  * [Connecting to the internet](device-usage/first-steps/connecting-to-the-internet.md)
-  * [Syncing content](device-usage/first-steps/syncing-content.md)
-  * [Exploring content](device-usage/first-steps/exploring-content.md)
-* [Bundled applications](device-usage/bundled-applications/README.md)
+* [Primeros pasos](device-usage/first-steps/README.md)
+  * [Conexión a internet](device-usage/first-steps/connecting-to-the-internet.md)
+  * [Sincronización de contenido](device-usage/first-steps/syncing-content.md)
+  * [Explorando contenido](device-usage/first-steps/exploring-content.md)
+* [Aplicaciones incluidas](device-usage/bundled-applications/README.md)
   * [Mapeo Data Hub](device-usage/bundled-applications/mapeo-data-hub/README.md)
-    * [Syncing with Hub](device-usage/bundled-applications/mapeo-data-hub/syncing-with-hub.md)
-    * [Observations map](device-usage/bundled-applications/mapeo-data-hub/observation-maps.md)
-    * [Mapeo Observations as Terrastories Places](device-usage/bundled-applications/mapeo-data-hub/mapeo-observations-as-terrastories-places.md)
-    * [Customization](device-usage/bundled-applications/mapeo-data-hub/customization.md)
+    * [Sincronización con Hub](device-usage/bundled-applications/mapeo-data-hub/syncing-with-hub.md)
+    * [Mapa de observaciones](device-usage/bundled-applications/mapeo-data-hub/observation-maps.md)
+    * [Observaciones de Mapeo como lugares de Terrastories](device-usage/bundled-applications/mapeo-data-hub/mapeo-observations-as-terrastories-places.md)
+    * [Personalización](device-usage/bundled-applications/mapeo-data-hub/customization.md)
   * [Pataka](device-usage/bundled-applications/pataka.md)
   * [Terrastories](device-usage/bundled-applications/terrastories.md)
-  * [File management](device-usage/bundled-applications/file-management/README.md)
-    * [Storing locally](device-usage/bundled-applications/file-management/storing-locally.md)
-    * [Sharing locally](device-usage/bundled-applications/file-management/sharing-locally.md)
-  * [Content syncronization](device-usage/bundled-applications/content-syncronization.md)
-  * [Application installers](device-usage/bundled-applications/application-installers.md)
-  * [Tile server](device-usage/bundled-applications/tile-server.md)
-* [Managing device](device-usage/managing-device.md)
-* [Customizing experience](device-usage/customizing-experience.md)
+  * [Administración de archivos](device-usage/bundled-applications/file-management/README.md)
+    * [Almacenamiento local](device-usage/bundled-applications/file-management/storing-locally.md)
+    * [Compartir localmente](device-usage/bundled-applications/file-management/sharing-locally.md)
+  * [Sincronización de contenido](device-usage/bundled-applications/content-syncronization.md)
+  * [Instaladores de aplicaciones](device-usage/bundled-applications/application-installers.md)
+  * [Servidor de teselas](device-usage/bundled-applications/tile-server.md)
+* [Gestión del dispositivo](device-usage/managing-device.md)
+* [Personalización de la experiencia](device-usage/customizing-experience.md)
 
-## Device setup
+## Configuración del dispositivo
 
-* [Introduction](device-setup/introduction.md)
-* [Choosing a device](device-setup/choosing-a-device.md)
-* [Single-board-computers](device-setup/single-board-computers.md)
-* [Regular computers](device-setup/other-computers.md)
-* [Using Balena Cloud](device-setup/using-balena-cloud.md)
-* [Using Docker](device-setup/using-docker.md)
-* [Troubleshooting](device-setup/troubleshooting.md)
+* [Introducción](device-setup/introduction.md)
+* [Elección de un dispositivo](device-setup/choosing-a-device.md)".* [Computadoras de una sola placa](configuracion-del-dispositivo/computadoras-de-una-sola-placa.md)
+* [Computadoras regulares](configuracion-del-dispositivo/otras-computadoras.md)
+* [Usando Balena Cloud](configuracion-del-dispositivo/usando-balena-cloud.md)
+* [Usando Docker](configuracion-del-dispositivo/usando-docker.md)
+* [Solución de problemas](configuracion-del-dispositivo/solucion-de-problemas.md)
 
-## Support Team
+## Equipo de soporte
 
-* [Onboarding new device](support-team/onboarding-new-device.md)
-* [Devices dashboard](support-team/devices-dashboard.md)
-* [Online Cloud](support-team/online-cloud/README.md)
-  * [Services](support-team/online-cloud/services.md)
-  * [Customizing synced content](support-team/online-cloud/customizing-synced-content.md)
-  * [Managing EDT Cloud](support-team/online-cloud/managing-edt-cloud.md)
-  * [Setting up EDT Cloud](support-team/online-cloud/setting-up-edt-cloud.md)
+* [Implementación de nuevos dispositivos](equipo-de-soporte/implementacion-de-nuevos-dispositivos.md)
+* [Panel de dispositivos](equipo-de-soporte/panel-de-dispositivos.md)
+* [Nube en línea](equipo-de-soporte/nube-en-linea/README.md)
+  * [Servicios](equipo-de-soporte/nube-en-linea/servicios.md)
+  * [Personalización de contenido sincronizado](equipo-de-soporte/nube-en-linea/personalizacion-de-contenido-sincronizado.md)
+  * [Administración de EDT Cloud](equipo-de-soporte/nube-en-linea/administracion-de-edt-cloud.md)
+  * [Configuración de EDT Cloud](equipo-de-soporte/nube-en-linea/configuracion-de-edt-cloud.md)
 
-## For developers
+## Para desarrolladores
 
-* [Architecture overview](for-developers/architecture-overview.md)
-* [Repositories](for-developers/repositories.md)
-* [Development workflow](for-developers/development-workflow.md)
-* [Development devices](for-developers/development-devices.md)
+* [Resumen de la arquitectura](para-desarrolladores/resumen-de-la-arquitectura.md)
+* [Repositorios](para-desarrolladores/repositorios.md)
+* [Flujo de trabajo de desarrollo](para-desarrolladores/flujo-de-trabajo-de-desarrollo.md)
+* [Dispositivos de desarrollo](para-desarrolladores/dispositivos-de-desarrollo.md)
 
 ***
 
-* [Translating](translating.md)
-* [Support](support.md)
-* [Earth Defenders Toolkit Deploy](https://www.earthdefenderstoolkit.com/deploy/)
-* [EDT Offline Demo](http://demo.earthdefenderstoolkit.com/)
-* [Latest Releases](http://releases.earthdefenderstoolkit.com/)
+* [Traducción](traduccion.md)
+* [Soporte](soporte.md)
+* [Despliegue de Earth Defenders Toolkit](https://www.earthdefenderstoolkit.com/deploy/)
+* [Demo sin conexión de EDT](http://demo.earthdefenderstoolkit.com/)
+* [Últimas versiones lanzadas](http://releases.earthdefenderstoolkit.com/)

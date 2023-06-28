@@ -1,17 +1,17 @@
-# Content syncronization
+# Sincronización de contenido
 
-Somtimes we want to keep data syncronized between devices, such as for having shared documents across different devices, and across for everyone in a team. For that we use the same application used for [syncing-content.md](../first-steps/syncing-content.md "mention"), Syncthing: It's usually running on the address: [http://edt.local:8082](http://edt.local:8082)
+A veces queremos mantener sincronizados los datos entre dispositivos, como por ejemplo, para tener documentos compartidos en diferentes dispositivos, y que puedan ser visualizados por todo un equipo de trabajo. Para eso podemos usar la misma aplicación que utilizamos en [syncing-content.md](../first-steps/syncing-content.md "mencionado"), que es Syncthing. Usualmente se encuentra en la dirección: [http://edt.local:8082](http://edt.local:8082)
 
-We can start by adding a folder from our community cloud:
+Podemos comenzar agregando una carpeta desde nuestra nube comunitaria:
 
 <figure><img src="../../.gitbook/assets/Untitled 2.png" alt=""><figcaption></figcaption></figure>
 
-Add a descriptive label to the new folder. The content directory is named `/config` here, so find your folder under it.
+Asigna un nombre descriptivo a la nueva carpeta. La carpeta de contenido se llama `/config` aquí, por lo que debes ubicar tu carpeta debajo de ella.
 
 <figure><img src="../../.gitbook/assets/Untitled 3.png" alt=""><figcaption></figcaption></figure>
 
-Before clicking save, go to the **Advanced** tab. Change the **Folder Type** according to your needs.
+Antes de hacer clic para guardar, ve a la pestaña de **Avanzado**. Cambia el **Tipo de carpeta** según necesites.
 
-For the cloud, **Send Only** is worth selecting, as most times we want a single source of truth for the content
+Para la nube, normalmente es bueno seleccionar **Enviar únicamente**, ya que la mayoría de las veces queremos tener una única fuente de verdad para el contenido.
 
-Finally we can click save.
+Finalmente, haz clic en guardar.

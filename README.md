@@ -1,13 +1,13 @@
 ---
-description: Why and what is Earth Defenders Toolkit Offline?
-cover: .gitbook/assets/IMG_0308 (1).jpg
-coverY: 0
+descripción: ¿Por qué y qué es Earth Defenders Toolkit Offline?
+portada: .gitbook/assets/IMG_0308 (1).jpg
+portadaY: 0
 ---
 
-# Introduction
+# Introducción
 
-The reality of many communities is that Internet connectivity is unreliable, or non existent. For that reason [Earth Defenders Toolkit](https://earthdefenderstoolkit.com/) can be deployed to computers on the ground so that all content can live offline, in a local network, and can be synced whenever the device goes online.
+La realidad de muchas comunidades es que la conectividad a Internet es poco fiable o no existe. Por esa razón, [Earth Defenders Toolkit] (https://earthdefenderstoolkit.com/) se puede implementar en computadoras en tierra para que todo el contenido pueda estar sin conexión, en una red local, y se puede sincronizar cuando el dispositivo se conecta a Internet.
 
-A computer running EDT offline creates a hotspot, where people with devices in wifi range can download, install, and use applications curated on the Earths Defender’s Toolkit platform. We've organized content around topics such as **community mapping** and **land-based storytelling**. For each of these topics we provide guides, use cases, assets and helper applications, which are made available through a simple interface.
+Una computadora que ejecuta EDT sin conexión crea un punto de acceso donde las personas con dispositivos dentro del alcance del wifi pueden descargar, instalar y usar aplicaciones creadas en la plataforma Earths Defender's Toolkit. Hemos organizado el contenido en torno a temas como el **mapeo comunitario** y la **narración basada en la tierra**. Para cada uno de estos temas, ofrecemos guías, casos de uso, recursos y aplicaciones auxiliares, que están disponibles a través de una interfaz simple.
 
-On the local network, community members have access to applications for storing and sharing their content. The featured tool **Terrastories** can also be used locally.
+En la red local, los miembros de la comunidad tienen acceso a aplicaciones para almacenar y compartir su contenido. La herramienta destacada **Terrastories** también se puede usar localmente.

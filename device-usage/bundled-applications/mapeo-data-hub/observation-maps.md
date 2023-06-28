@@ -1,5 +1,5 @@
-# Observations map
+# Mapa de observaciones
 
-The interface for the Mapeo Data Hub is a map displaying the observations that has been synced. Because this can be dangerous we display only the markers, and no information more.
+La interfaz del Centro de datos de Mapeo es un mapa que muestra las observaciones que se han sincronizado. Debido a que esto puede ser peligroso, solo mostramos los marcadores y no más información.
 
-Feedback is welcome on how to safely build this in a way that's useful.
+Cualquier comentario con respecto a cómo construir esto de manera segura y útil es bienvenido.

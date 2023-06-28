@@ -1,16 +1,14 @@
-# Managing device
+# Gestión del dispositivo
 
-The Offline Toolkit comes with an administrator interface that's usually located at: [http://edt.local:8079/](http://edt.local:8079/#/)
+El Kit de herramientas sin conexión viene con una interfaz de administrador que normalmente se encuentra en: [http://edt.local:8079/](http://edt.local:8079/#/)
 
+Con ella es posible:
 
-
-With it it's possible to:
-
-* Check device name
-* Check RAM and CPU usage
-* Check other various information relatede to your device
-* Restart or shutdown the device
-* Manage running services
-* Explore files similar to Filebrowser
-* Connect to a WiFi hotspot
-* Set custom variables
+* Verificar el nombre del dispositivo
+* Verificar el uso de la RAM y la CPU
+* Verificar otra información relacionada con su dispositivo
+* Reiniciar o apagar el dispositivo
+* Administrar los servicios en ejecución
+* Explorar archivos similares a un navegador de archivos
+* Conectarse a un punto de acceso WiFi
+* Establecer variables personalizadas.

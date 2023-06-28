@@ -1,5 +1,5 @@
 # Terrastories
 
-The Earth Defenders Offline Toolkit comes with an instance of Terrastories running, usually on the address: [http://edt.local:8083](http://edt.local:8083)
+El Paquete de Herramientas Sin Conexión de Defensores de la Tierra viene con una instancia de Terrastories en funcionamiento, usualmente en la dirección: [http://edt.local:8083](http://edt.local:8083).
 
-Refer to the official documentation for more information: [https://docs.terrastories.app](https://docs.terrastories.app/overview/getting-started)
+Consulte la documentación oficial para obtener más información: [https://docs.terrastories.app](https://docs.terrastories.app/overview/getting-started).

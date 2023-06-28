@@ -1,22 +1,22 @@
-# Use cases
+# Casos de uso
 
-The Earth Defenders Offline Toolkit is intended to be used by a group that has a common physical meeting space, which is the coverage area of the device's wifi. That coverage area can be small or large depending on the devices wifi radio, but can expand to cover large areas, such as villages, by connecting them to routers and expanded through mesh networks.
+El Kit sin conexión de Earth Defenders está destinado a ser utilizado por un grupo que tenga un espacio físico común de reunión, que es el área de cobertura del wifi del dispositivo. Esa área de cobertura puede ser pequeña o grande dependiendo de la radio wifi de los dispositivos, pero puede expandirse para cubrir grandes áreas, como aldeas, conectándolas a enrutadores y expandiéndolas a través de redes de malla.
 
-Offline Toolkit is meant to help groups onboard new users to the tools curated on the Earth Defenders Toolkit platform, as well as provide common helpful assets and helper applications for these tools. It can also assist organizing data in a local offline environment, and provide ways to sync and share data locally or through the Internet. It's also a great tool for partner organizations to organize and synchronize data with the ground communities.
+El Kit sin conexión está destinado a ayudar a los grupos a incorporar nuevos usuarios a las herramientas seleccionadas en la plataforma de Earth Defenders Toolkit, así como a proporcionar activos útiles comunes y aplicaciones de ayuda para estas herramientas. También puede ayudar a organizar datos en un entorno local sin conexión, y proporcionar formas de sincronizar y compartir datos localmente o a través de Internet. También es una excelente herramienta para que las organizaciones asociadas organicen y sincronicen datos con las comunidades terrestres.
 
-Some Offline Toolkit devices (such as single-board-computers) are small, but aren't so fragile, and with appropriate casing, they can easily travel within a backpack together with clothes.
+Algunos dispositivos del Kit sin conexión (como las computadoras de placa única) son pequeños, pero no son tan frágiles, y con la carcasa adecuada, pueden viajar fácilmente en una mochila junto con la ropa.
 
-The toolkit can be used mobile, during meetings or fieldwork with the right power supply and weather protection.
+El kit se puede utilizar de forma móvil, durante las reuniones o el trabajo de campo con la fuente de alimentación y la protección contra el clima adecuadas.
 
-It's also great for indoor spaces such as a house, a remote base or an office, as long as it’s protected from the weather and other possible hazards, such as children playing.
+También es ideal para espacios interiores como una casa, una base remota o una oficina, siempre y cuando esté protegido del clima y de otros posibles peligros, como los niños jugando.
 
-The current included tool workflows are participatory mapping with Mapeo, and land-based story telling with Terrastories. These workflows are meant for:
+Los flujos de trabajo de las herramientas incluidas actualmente son la cartografía participativa con Mapeo y la narración de historias sobre la tierra con Terrastories. Estos flujos de trabajo están diseñados para:
 
-* on-boarding new users to the tools through config files, map tiles etc.
-* providing mobile and desktop installers for the tools
-* providing bridging services between the tools
-* providing documentation and use cases for the tools
-* providing running instances of the tools, such as Mapeo and Terrastories
-* providing local storage for organization data (documents, photos, videos, folders, etc.)
-* providing p2p syncing of the stored data, locally or remotely
-* providing a way for all content to be updated whenever device is connected to the Internet
+* incorporar nuevos usuarios a las herramientas a través de archivos de configuración, mosaicos de mapas, etc.
+* proporcionar instaladores móviles y de escritorio para las herramientas
+* proporcionar servicios de enlace entre las herramientas
+* proporcionar documentación y casos de uso para las herramientas
+* proporcionar instancias en ejecución de las herramientas, como Mapeo y Terrastories
+* proporcionar almacenamiento local para datos organizativos (documentos, fotos, videos, carpetas, etcétera)
+* proporcionar sincronización P2P de datos almacenados, local o remotamente
+* proporcionar una forma de actualizar todo el contenido cada vez que el dispositivo esté conectado a Internet".

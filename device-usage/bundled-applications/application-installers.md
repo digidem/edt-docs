@@ -1,7 +1,7 @@
-# Application installers
+# Instaladores de Aplicaciones
 
-A simple interface is provided for downloading installers for different applications. It's locally addressed: [http://edt.local:8080/apps](http://edt.local:8080/apps)
+Se proporciona una interfaz sencilla para descargar instaladores de diferentes aplicaciones. Su dirección local es: [http://edt.local:8080/apps](http://edt.local:8080/apps)
 
-Installers for all major systems are provided: Android, iOS, Windows, Mac and Linux.
+Se proporcionan instaladores para todos los principales sistemas: Android, iOS, Windows, Mac y Linux.
 
-If the installer isn't available for your system, it's because it doesn't exist.
+Si el instalador no está disponible para su sistema, es porque no existe.

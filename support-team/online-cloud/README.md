@@ -1,5 +1,5 @@
-# Online Cloud
+# Nube en línea
 
-The Earth Defenders Toolkit Cloud is a code-as-infraestructure meant to be used by Digital Democracy's project team as well as replicated by other organizations giving support to communities.
+La Nube de la Herramienta de Defensores de la Tierra es una infraestructura de código destinada a ser utilizada por el equipo del proyecto de Democracia Digital, así como para ser replicada por otras organizaciones que brinden apoyo a las comunidades. 
 
-The purpose of these servers is to bootstrap and update content for instances of the Earth Defenders Toolkit Offline, and as they have high availability.
+El propósito de estos servidores es iniciar y actualizar el contenido de las instancias de la Herramienta de Defensores de la Tierra sin conexión, y como los tienen una alta disponibilidad.

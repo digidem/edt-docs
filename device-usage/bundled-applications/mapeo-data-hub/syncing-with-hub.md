@@ -1,14 +1,13 @@
-# Syncing with Hub
+"# Sincronización con el Hub
 
-First connect to the Offline Toolkit's WiFi hotspot, or to a wifi network that it's also connected too.
+Primero, conéctese al punto de acceso WiFi de la herramienta Offline Toolkit o a una red WiFi a la que también esté conectado.
 
-Open Mapeo and enter the sync page. Check [documentation on Mapeo sync](https://docs.mapeo.app/complete-reference-guide/mapeo-mobile-use/wifi-sync).
+Abra Mapeo e ingrese a la página de sincronización. Consulte la [documentación sobre la sincronización de Mapeo](https://docs.mapeo.app/complete-reference-guide/mapeo-mobile-use/wifi-sync).
 
-You should see the Offline Toolkit device showing up and ready to sync.
+Debería ver el dispositivo Offline Toolkit apareciendo y listo para sincronizar.
 
-If not you might need to change your project key. In case you don't have an existing project, download and use the custom Mapeo configuration that's provided, which comes preset with the same project key as the Hub.
+Si no lo ve, es posible que necesite cambiar la clave de su proyecto. En caso de que no tenga un proyecto existente, descargue y use la configuración personalizada de Mapeo que se proporciona, que viene preconfigurada con la misma clave de proyecto que el Hub.
 
-If you already have a custom project key check [customization.md](customization.md "mention") to learn how to set the correct key for the Mapeo Data Hub to work for your team.
+Si ya tiene una clave de proyecto personalizada, consulte [customization.md](customization.md "mención") para aprender cómo establecer la clave correcta para que el Hub de Datos de Mapeo funcione para su equipo.
 
-Read more about project keys [here](https://docs.mapeo.app/complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/coding-configuration/adding-a-project-key).&#x20;
-
+Lea más sobre las claves de proyecto [aquí](https://docs.mapeo.app/complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/coding-configuration/adding-a-project-key).&#x20;".

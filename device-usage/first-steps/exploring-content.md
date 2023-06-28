@@ -1,10 +1,9 @@
-# Exploring content
+# Explorando contenido
 
-There are currently 3 toolkits pre-loaded and running:
+Actualmente hay 3 herramientas cargadas y en funcionamiento:
 
-* Mapping and Monitoring
-* Land-based storytelling
-* Local Community Cloud
+* Mapeo y monitoreo
+* Narración basada en la tierra
+* Nube de comunidad local
 
-Each toolkit has links or downloads for the applications, as well as documentation and community stories around the tool usage.
-
+Cada herramienta tiene enlaces o descargas para las aplicaciones, así como documentación e historias de la comunidad sobre el uso de la herramienta.

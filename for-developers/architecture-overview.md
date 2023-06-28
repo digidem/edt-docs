@@ -1,3 +1,3 @@
-# Architecture overview
+# Visión general de la arquitectura
 
-* Balena: OS, Cloud
+* Balena: SO, nube.

@@ -1,10 +1,10 @@
 ---
-description: Get in touch with us
+descripción: Ponte en contacto con nosotros
 ---
 
-# Support
+# Soporte
 
-Write to us at [info@earthdefenderstoolkit.com](mailto:info@earthdefenderstoolkit.com) or go through our [inquiry form](https://forms.gle/uvK5cZQPi4YQCof67) which can help us find out more about your needs.
+Escríbenos a [info@earthdefenderstoolkit.com](mailto:info@earthdefenderstoolkit.com) o completa nuestro [formulario de consulta](https://forms.gle/uvK5cZQPi4YQCof67), el cual nos ayudará a conocer más acerca de tus necesidades.
 
 \
-For additional support, please check out the community of active users and maintainers of the Earth Defenders Toolkit on our public [Discord](https://discord.gg/ZDPWMyQP), [Telegram](https://t.me/+3t9fPkrkg4oxNjU5) group and [online forum](https://forum.earthdefenderstoolkit.com/).
+Para obtener soporte adicional, por favor revisa la comunidad de usuarios activos y mantenedores de Earth Defenders Toolkit en nuestro [Discord](https://discord.gg/ZDPWMyQP) público, el grupo de [Telegram](https://t.me/+3t9fPkrkg4oxNjU5) y el [foro en línea](https://forum.earthdefenderstoolkit.com/).

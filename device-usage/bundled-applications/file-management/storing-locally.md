@@ -1,15 +1,15 @@
-# Storing locally
+# Almacenamiento local
 
-The Offline Toolkit provides a storage space for community data. Besides the administrator, all other content is public.
+La herramienta Offline Toolkit proporciona un espacio de almacenamiento para los datos de la comunidad. Aparte del administrador, todo el contenido es público.
 
-The first step is creating a new account for yourself. You'll need to memorize your name and password.
+El primer paso es crear una cuenta nueva para ti. Deberás memorizar tu nombre y contraseña.
 
 &#x20;
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Once logged in you'll have acces to the public space for storing files. Create a personal or team folder and store your files inside.
+Una vez que hayas iniciado sesión tendrás acceso al espacio público para almacenar archivos. Crea una carpeta personal o de equipo y almacena tus archivos dentro.
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Be mindful of storage space as there are limits to how much the device can hold. Check [managing-device.md](../../managing-device.md "mention") to learn how to check storage space.
+Ten en cuenta el espacio de almacenamiento ya que hay límites en cuanto a cuánto puede contener el dispositivo. Consulta [managing-device.md](../../managing-device.md "mencionado") para aprender cómo verificar el espacio de almacenamiento.

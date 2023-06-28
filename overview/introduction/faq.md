@@ -1,9 +1,9 @@
-# FAQ
+# Preguntas frecuentes
 
-**Does my community or organization have full control and ownership over data stored on an EDT Offline device?**
+**¿Mi comunidad u organización tiene control completo y propiedad sobre los datos almacenados en un dispositivo EDT Offline?**
 
-That is only true if you're [deploying EDT Offline using Docker](../../device-setup/using-docker.md), as we're currently relying on [Balena Cloud](https://www.balena.io/cloud), which gives the Balena team backdoors to any device. We have plans to shift to using [Open Balena](https://www.balena.io/open), which will remove those backdoors for the Balena organization.
+Esto solo es cierto si estás [implementando EDT Offline usando Docker](../../device-setup/using-docker.md), ya que actualmente dependemos de [Balena Cloud](https://www.balena.io/cloud), lo que le da al equipo de Balena una puerta trasera a cualquier dispositivo. Tenemos planes de cambiar a [Open Balena](https://www.balena.io/open), lo cual eliminará esas puertas traseras para la organización de Balena.
 
-**Can I install EDT Offline in any computer?**
+**¿Puedo instalar EDT Offline en cualquier computadora?**
 
-Yes, there are two ways of installing EDT Offline in a computer, but both require some technical knowledge in either formating a computer or running [Docker](https://www.docker.com/).
+Sí, hay dos formas de instalar EDT Offline en una computadora, pero ambas requieren algún conocimiento técnico en el formateo de una computadora o en la ejecución de [Docker](https://www.docker.com/).

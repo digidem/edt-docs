@@ -1,20 +1,20 @@
-# Using Docker
+# Usando Docker
 
-You'll need any computer with an Operaying System that can run [Docker](https://www.docker.com/) & [docker-compose](https://docs.docker.com/get-started/08\_using\_compose/). You might need someone with technical skills on these tools to set it up.
+Necesitarás una computadora con un sistema operativo que pueda ejecutar [Docker](https://www.docker.com/) y [docker-compose](https://docs.docker.com/get-started/08_using_compose/). Es posible que necesites a alguien con habilidades técnicas en estas herramientas para configurarlas.
 
-Using Docker EDT-Offline can be setup in almost any machine without any special operating system needed.
+Usando Docker, EDT-Offline se puede configurar en casi cualquier máquina sin necesidad de un sistema operativo especial.
 
-Needed installed software
+Software necesario instalado
 
 * [Docker](https://www.docker.com/)
-* [docker-compose](https://docs.docker.com/get-started/08\_using\_compose/)
+* [docker-compose](https://docs.docker.com/get-started/08_using_compose/)
 * [git](https://git-scm.com/downloads)
 
-These are the steps:
+Sigue estos pasos:
 
-1. Clone repository
-2. cd `docker/local` directory
+1. Clona el repositorio
+2. Dirígete al directorio `docker/local`
 3. `cp .env.example .env`
-4. Edit `.env` with your own values
-5. Run `docker-compose up -d`
-6. Use `docker-compose logs -f` to see logs
+4. Edita `.env` con tus propios valores
+5. Ejecuta `docker-compose up -d`
+6. Usa `docker-compose logs -f` para ver los registros".

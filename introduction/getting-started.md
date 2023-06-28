@@ -1,18 +1,15 @@
 ---
-description: Do you have a device setup with the Earth Defenders Offline Toolkit?
+descripción: ¿Tienes un dispositivo configurado con Earth Defenders Offline Toolkit?
 ---
 
-# Getting started
+# Empezando
 
-> ⚠️ Check out the [online demo](http://demo.earthdefenderstoolkit.com/) to have the browsing experience of the Offline Toolkit&#x20;
+> ⚠️ Echa un vistazo a la [demo en línea](http://demo.earthdefenderstoolkit.com/) para tener la experiencia de navegación de la Offline Toolkit&#x20;
 >
-> :signal\_strength: You see what people in WiFi range of the device will see
+> :signal\_strength: Verás lo que las personas dentro del rango WiFi del dispositivo verán
 
-To start using Earth Defenders Offline Toolkit you'll need to setup a computer to run the software. If you already have one, proceed to[Broken link](broken-reference "mention").
+Para empezar a usar Earth Defenders Offline Toolkit, necesitarás configurar una computadora para ejecutar el software. Si ya tienes una, dirígete a [enlace roto](broken-reference "mencionar").
 
-There are several supported devices and ways to setup computers to run the Offline Toolkit. Head to the [Broken link](broken-reference "mention") section to understand how this works.
+Existen varios dispositivos compatibles y formas de configurar computadoras para que ejecuten la Offline Toolkit. Dirígete a la sección de [enlace roto](broken-reference "mencionar") para entender cómo funciona esto.
 
-If your team lacks the necessary technical skills to setup your own device, please get in touch with our team at Digital Democracy so we can assist you on choosing the best path to deploy a device for your community or organization.
-
-
-
+Si tu equipo carece de las habilidades técnicas necesarias para configurar tu propio dispositivo, por favor contáctanos en Digital Democracy para que podamos ayudarte a elegir el mejor camino para implementar un dispositivo para tu comunidad u organización.

@@ -1,22 +1,22 @@
-# Using Balena Cloud
+# Usando Balena Cloud
 
 
 
-> &#x20;Third party company will be managing a monitoring platform for your devices, and they have backdoors to your devices
+> &#x20;Una empresa externa administrará una plataforma de monitoreo para sus dispositivos, y tendrán puertas traseras a sus dispositivos.
 
-You'll need some software to burn images to a storage device (pen drive or sd card), we recommend [Balena Etcher](https://www.balena.io/etcher/).
+Necesitará algún software para grabar imágenes en un dispositivo de almacenamiento (unidad flash o tarjeta SD), recomendamos [Balena Etcher] (https://www.balena.io/etcher/).
 
-Anyone can deploy there own EDT-Offline by following these steps:
+Cualquier persona puede implementar su propio EDT-Offline siguiendo estos pasos:
 
-1. Click on "[Deploy with Balena](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/digidem/edt-offline)”
-2. You'll be asked to create a Balena Cloud account
-3. You'll be prompted to deploy a new fleet, change the name if necessary and click on "create and deploy”
-4. Click on the "Add device” button
-5. Leave in "Production" mode unless you'd like to experiment and have ssh access to the device
-6. To setup the device you'll need Internet, choose the way you intend to connect, either through WiFi (provide the credentials) or Ethernet cable
-7. Finally either click "Flash" which will automatically flash using Etcher, or using the arrow click on "Download balenaOS", which will download the image file
-8. Insert the storage in the computer and burn the image
-9. Finally insert the storage to the device and watch your [Balena Cloud Dashboard](https://dashboard.balena-cloud.com), a new device should appear and start updating it's software
-10. To sync with default content you'll need to get in touch with us through e-mail, Telegram or Whatsapp
+1. Haga clic en "[Implementar con Balena] (https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/digidem/edt-offline) ”
+2. Se le pedirá que cree una cuenta en Balena Cloud
+3. Se le solicitará que implemente una nueva flota, cambie el nombre si es necesario y haga clic en "crear y implementar".
+4. Haga clic en el botón "Agregar dispositivo"
+5. Mantenga el modo "Producción" a menos que desee experimentar y tener acceso ssh al dispositivo.
+6. Para configurar el dispositivo, necesitará Internet, elija la forma en que desea conectarse, ya sea a través de WiFi (proporcione las credenciales) o cable Ethernet.
+7. Finalmente, haga clic en "Flash", que automáticamente flasheará usando Etcher, o usando la flecha, haga clic en "Descargar balenaOS", que descargará el archivo de imagen.
+8. Inserte el almacenamiento en la computadora y grabe la imagen.
+9. Finalmente inserte el almacenamiento en el dispositivo y observe su [Panel de control de Balena Cloud](https://dashboard.balena-cloud.com), debería aparecer un nuevo dispositivo y comenzar a actualizar su software.
+10. Para sincronizar con el contenido predeterminado, deberá ponerse en contacto con nosotros por correo electrónico, Telegram o Whatsapp.
 
-> &#x20;Change your device location on the Balena Cloud “Location” tab. This is recommended if you don’t want your device to be found on the [Balena Hub](https://hub.balena.io).
+> &#x20;Cambie la ubicación del dispositivo en la pestaña "Ubicación" de Balena Cloud. Esto se recomienda si no desea que se encuentre su dispositivo en el [Balena Hub](https://hub.balena.io).

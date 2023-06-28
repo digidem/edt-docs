@@ -1,2 +1,1 @@
-# Onboarding new device
-
+# En la incorporación de un nuevo dispositivo

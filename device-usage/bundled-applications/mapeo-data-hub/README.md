@@ -1,9 +1,9 @@
 # Mapeo Data Hub
 
-&#x20;A custom application that can be used for:
+Una aplicación personalizada que se puede utilizar para:
 
-* Synchronizing Mapeo data from local devices, see [syncing-with-hub.md](syncing-with-hub.md "mention")
-* Displaying all observation data on a local offline map, see [observation-maps.md](observation-maps.md "mention")
-* Generating a compatible `csv` file that can be import into Terrastories as a Story Place, see [mapeo-observations-as-terrastories-places.md](mapeo-observations-as-terrastories-places.md "mention")
+* Sincronizar datos de Mapeo desde dispositivos locales, consulte [syncing-with-hub.md](syncing-with-hub.md "mención")
+* Mostrar todos los datos de observación en un mapa sin conexión local, consulte [observation-maps.md](observation-maps.md "mención")
+* Generar un archivo `csv` compatible que se puede importar en Terrastories como un Lugar de Historia, consulte [mapeo-observations-as-terrastories-places.md](mapeo-observations-as-terrastories-places.md "mención")
 
-Any issues can be reported on [Github](https://github.com/digidem/mapeo-bridge).
+Cualquier problema puede ser reportado en [Github](https://github.com/digidem/mapeo-bridge).

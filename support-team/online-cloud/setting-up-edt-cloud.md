@@ -1,2 +1,1 @@
-# Setting up EDT Cloud
-
+# Configuración de EDT Cloud

@@ -1,31 +1,31 @@
-# Single-board-computers
+# Computadoras de placa única
 
-The process for a single-board-computer (SBC) is much simpler, and only requires burning an sd card.
+El proceso para una computadora de placa única (SBC) es mucho más simple y solo requiere quemar una tarjeta sd.
 
-**Recomended devices:**
+**Dispositivos recomendados:**
 
 * [Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 * [RockPi 4 B+](https://wiki.radxa.com/Rock4/4abplus)
 
-#### Needed hardware
+#### Hardware necesario
 
-* Any of [supported devices](http://releases.earthdefenderstoolkit.com/)
-* Class 10 micro sd card with at least 32gb
-* A computer with a sd card reader
-* Internet connection through ethernet cable
+* Cualquiera de los [dispositivos compatibles](http://releases.earthdefenderstoolkit.com/)
+* Tarjeta microsd Clase 10 con al menos 32GB
+* Una computadora con lector de tarjetas sd
+* Conexión a internet a través de un cable Ethernet
 
-#### Needed software
+#### Software necesario
 
-* Image burner, recommended: [Balena Etcher](https://www.balena.io/etcher/)
+* Quemador de imagen, se recomienda: [Balena Etcher](https://www.balena.io/etcher/)
 
-#### Preparing USB flash drive
+#### Preparando la unidad flash USB
 
-Download the appropriate image for your device: [http://releases.earthdefenderstoolkit.com](http://releases.earthdefenderstoolkit.com/)
+Descargue la imagen apropiada para su dispositivo: [http://releases.earthdefenderstoolkit.com](http://releases.earthdefenderstoolkit.com/)
 
-Use the image burner to burn the image to the sd card.
+Use el quemador de imagen para quemar la imagen en la tarjeta sd.
 
-#### Installing the Offline Toolkit
+#### Instalando la herramienta sin conexión a internet
 
-* Insert the flashed sd card into the computer
-* Insert the ethernet cable with Internet coming from your router into the computer
-* Check the [Balena Dashboard](https://dashboard.balena-cloud.com/) for the device to come online, or check if a new WiFi hotspot has appeared
+* Inserte la tarjeta sd quemada en la computadora
+* Inserte el cable Ethernet con Internet procedente de su enrutador en la computadora
+* Verifique el [Balena Dashboard](https://dashboard.balena-cloud.com/) para que el dispositivo se conecte en línea o verifique si ha aparecido un nuevo punto de acceso WiFi.

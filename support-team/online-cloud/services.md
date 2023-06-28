@@ -1,35 +1,33 @@
-# Services
+# Servicios 
 
-## Syncthing
+## Syncthing 
 
-A free, open-source peer-to-peer file synchronization application available for most plaforms. It can sync files between devices on a local network, or between remote devices over the Internet. Data security and data safety are built into the design of the software. It’s a FOSS alternative to [Resilio Sync](https://www.resilio.com).
+Es una aplicación gratuita de sincronización de archivos entre pares, de código abierto, disponible para la mayoría de las plataformas. Puede sincronizar archivos entre dispositivos en una red local o entre dispositivos remotos a través de Internet. La seguridad y la protección de los datos están integradas en el diseño del software. Es una alternativa FOSS a [Resilio Sync](https://www.resilio.com).
 
-The app is used for keeping up-to-date content (mapeo configs and tiles, offline websites, f-droid repository, etc) available for when community or organization devices go online.
+La aplicación se utiliza para mantener actualizado el contenido (mapas de configuración y tiles, sitios web sin conexión, repositorio f-droid, etc.) disponible cuando los dispositivos de la comunidad u organización se conecten a internet.
 
-The initial handshake between instance in the cloud and other devices is initialized automatically by the EDT Offline device, but needs to be accepted by someone with access to the Cloud service.
+El saludo inicial entre la instancia en la nube y otros dispositivos se inicia automáticamente por el dispositivo EDT Offline, pero necesita ser aceptado por alguien con acceso al servicio en la Nube.
 
-## File Browser
+## Navegador de archivos
 
-Provides a file managing interface within a specified directory and it can be used to upload, delete, preview, rename and edit files. It allows the creation of multiple users and each user can have its own directory. It can be used as a standalone app. It's a FOSS alternative to Google Drive, without the office suites.\*\*\*\*
+Ofrece una interfaz de gestión de archivos dentro de un directorio especificado y se puede utilizar para cargar, eliminar, previsualizar, renombrar y editar archivos. Permite la creación de varios usuarios y cada usuario puede tener su propio directorio. Se puede utilizar como una aplicación independiente. Es una alternativa FOSS a Google Drive, sin las suites de oficina.\*\*\*\*
 
-It's used for browsing content both in the cloud as well as on the offline device. The team giving support to communities should use it to add or remove content that's hosted on the cloud. The offline devices can use it to share files back with the support team, or within the local network.
+Se utiliza para navegar por el contenido tanto en la nube como en el dispositivo sin conexión. El equipo que ofrece soporte a las comunidades debe utilizarlo para agregar o eliminar contenido que se hospeda en la nube. Los dispositivos sin conexión pueden usarlo para compartir archivos con el equipo de soporte o dentro de la red local.
 
-## F-Droid Repository
+## Repositorio F-Droid 
 
-F-Droid is an app store and software repository for Android. Applications can be browsed, downloaded and installed from the client app without the need to register for an account. It's a FOSS alternative to the Google Play store.
+F-Droid es una tienda de aplicaciones y un repositorio de software para Android. Las aplicaciones se pueden navegar, descargar e instalar desde la aplicación cliente sin la necesidad de registrarse para obtener una cuenta. Es una alternativa FOSS a la tienda Google Play.
 
-We’ve forked a client app and created our own [EDT Apps](https://github.com/digidem/edt-apps) client, which comes with our own [EDT app repository](https://github.com/digidem/edt-fdroid-repository), as well as the repository that's running on the EDT Offline devices.
+Hemos bifurcado una aplicación cliente y creado nuestro propio cliente [EDT Apps](https://github.com/digidem/edt-apps), que viene con nuestro propio [repositorio de aplicaciones EDT](https://github.com/digidem/edt-fdroid-repository), así como con el repositorio que se ejecuta en los dispositivos EDT sin conexión.Los clientes regulares de F-Droid también pueden hacer uso del repositorio EDT simplemente agregando la URL a su lista de repositorios o escaneando el código QR presentado.
 
-Regular F-Droid clients can also make use of the EDT repository by simply adding the url to their list of repositories or scanning the QR code presented.
+## Sala de Secure Scuttlebut
 
-## Secure Scuttlebut Room
+La aplicación principal del cliente, [Manyverse] (https://www.manyver.se/), es una red social sin cosas malas, construida sobre el protocolo SSB punto a punto. Es gratuita y de código abierto, y está disponible para escritorio y móvil. No se ejecuta en la nube propiedad de una empresa, en su lugar, todos los datos viven completamente en los dispositivos de los usuarios. De esta manera, incluso fuera de línea, los usuarios pueden desplazarse, leer cualquier cosa e incluso escribir publicaciones y gustar el contenido. Cuando el dispositivo vuelve a estar en línea, sincroniza las últimas actualizaciones directamente con otros dispositivos, a través de una red Wi-Fi local compartida o en Internet.
 
-The main client app, [Manyverse](https://www.manyver.se/), is a social network without the bad stuff, built on the peer-to-peer SSB protocol. It's free and open source, and available for desktop and mobile. It's not running in the cloud owned by a company, instead, all data lives entirely on user devices. This way, even when offline, users can scroll, read anything, and even write posts and like content. When the device is back online, it syncs the latest updates directly with other devices, through a shared local Wi-Fi or on the internet.
+La Sala SSB es un servicio que permite a los pares "conocerse" en línea e intercambiar datos. Al ejecutar nuestra propia Sala, podemos conectar a los socios entre sí y también ofrecer soporte a los equipos. Tiene funciones de gestión de usuarios (roles de autorización y denegación de permisos + moderador y administrador) todos administrados a través del panel web.
 
-The SSB Room is a service that enables peers to “meet” online and exchange data. By running our own Room we can connect partners between themselves as well as support teams. It has user management features (allow- & denylisting + moderator & administrator roles), all administered via the web dashboard.
+## Almacenamiento de Minio
 
-## Minio Storage
+MinIO es una solución de almacenamiento de objetos de alto rendimiento que proporciona una API compatible con Amazon Web Services S3 y admite todas las funciones principales de S3. Es una alternativa de código abierto a Amazon S3.
 
-MinIO is a high performance object storage solution that provides an Amazon Web Services S3-compatible API and supports all core S3 features. It’s a FOSS alternative to Amazon S3.
-
-It's used for organizing Terrastories data into buckets. That way if a partner wants to have it’s Terrastories published on the cloud, we can sync it’s Minio bucket, which is running on the EDT Offline device, and run a Terrastories instance on the cloud pulling from that data. It provides an organized way of maintaining online and offline Terrastories instances in sync.
+Se utiliza para organizar los datos de Terrastories en cubos. De esta manera, si un socio desea que sus Terrastories se publiquen en la nube, podemos sincronizar su cubo Minio, que se ejecuta en el dispositivo Offline de EDT, y ejecutar una instancia de Terrastories en la nube extrayendo datos de eso. Proporciona una forma organizada de mantener en sincronía las instancias de Terrastories en línea y sin conexión.

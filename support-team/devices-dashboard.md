@@ -1,4 +1,3 @@
-# Devices dashboard
+# Panel de dispositivos
 
-* What's Balena
-
+* ¿Qué es Balena?

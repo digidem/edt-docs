@@ -1,13 +1,13 @@
-# Features
+# Características
 
-Even on offline environments, devices (mobile or desktop) in good range of the WiFi created by the Offline Toolkit computer will have access to:
+Incluso en entornos sin conexión a Internet, los dispositivos (móviles o de escritorio) dentro del alcance del WiFi creado por la computadora de la Offline Toolkit tendrán acceso a:
 
-* All content on the EDT platform: guides on community protocols and curated tools, as well as stories from communities from around the world on their experience using the tools
-* Installers for curated tools
-* A [Terrastories](https://terrastories.io/) instance
-* A [Mapeo](https://mapeo.app/) instance to sync with
-* An interactive map showing Mapeo observations that have been synced with device
-* File browsing application for storing and sharing files, similar to Google Drive
-* Syncing of content, from [EDT Cloud](../support-team/online-cloud/) to local computer, or from local computer to any other device, including mobile devices, locally or through the Internet
-* Automatic syncing of default content (scrapped websites, application installers, Mapeo configs, map tiles)
-* Automatic creation of files that can be imported into Terrastories, from synced Mapeo observations
+* Todo el contenido en la plataforma EDT: guías sobre protocolos comunitarios y herramientas seleccionadas, así como historias de comunidades de todo el mundo sobre su experiencia en el uso de las herramientas.
+* Los instaladores para las herramientas seleccionadas.
+* Una instancia de [Terrastories](https://terrastories.io/).
+* Una instancia de [Mapeo](https://mapeo.app/) para sincronizar.
+* Un mapa interactivo que muestra las observaciones de Mapeo que se han sincronizado con el dispositivo.
+* Una aplicación de navegación de archivos para almacenar y compartir archivos, similar a Google Drive.
+* La sincronización de contenido, desde [EDT Cloud](../support-team/online-cloud/) al ordenador local o de un ordenador local a cualquier otro dispositivo, incluidos dispositivos móviles, localmente o a través de Internet.
+* La sincronización automática del contenido predeterminado (sitios web raspados, instaladores de aplicaciones, configuraciones de Mapeo, mosaicos de mapas).
+* La creación automática de archivos que se pueden importar en Terrastories, a partir de las observaciones sincronizadas de Mapeo.
