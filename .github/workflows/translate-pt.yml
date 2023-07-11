@@ -18,6 +18,7 @@ jobs:
     - name: Branch, Add, Commit & Push
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
+        push_options: '--force'
         commit_message: New AI translation!
         branch: portuguese
         create_branch: true
