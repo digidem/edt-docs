@@ -8,17 +8,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - uses: digidem/ai-translator-action@master
+    - uses: digidem/ai-translator-action@main
       with:
           api_key: ${{ secrets.OPENAI_API_KEY }}
           file_types: "md,mdx"
           source_language: English
           target_language: pt-BR
           i18n_surfix: pt
-          prompt: "Tradução para:
-            - Earth Defenders Toolkit é Kit de Ferramentas para Defensores da Terra
-            - EDT é Kit Offline
-            "
     - name: Branch, Add, Commit & Push
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
