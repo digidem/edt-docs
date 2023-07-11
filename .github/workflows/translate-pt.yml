@@ -22,4 +22,3 @@ jobs:
         branch: portuguese
         create_branch: true
         file_pattern: '*/**/*.md'
-        repository: local_repo
