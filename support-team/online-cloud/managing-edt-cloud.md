@@ -1,2 +1,1 @@
-# Managing EDT Cloud
-
+# Gerenciando a Nuvem EDT

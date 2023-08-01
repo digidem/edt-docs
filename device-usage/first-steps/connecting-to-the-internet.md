@@ -1,13 +1,11 @@
-# Connecting to the internet
+# Conectando-se à internet
 
-The recomended and easiest way to connect any Offline Toolkit device to the Internet is through ethernet cable, directly from the router to the device.
+A forma recomendada e mais fácil de conectar qualquer dispositivo Offline Toolkit à internet é através de um cabo Ethernet, diretamente do roteador para o dispositivo.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Just don't plug into the router's <strong>WAN</strong> port, which is usually blue.</p></figcaption></figure>
+Apenas não conecte na porta **WAN** do roteador, que geralmente é azul.
 
-Your device can connect to a local WiFi hotspot in order to gain access to the internet, but this feature hasn't been well tested as of yet.
+Seu dispositivo pode se conectar a um ponto de acesso WiFi local para obter acesso à internet, mas essa função ainda não foi bem testada.
 
-To test it out go to the admin panel, and to the **Networking** tab, usually located at:  [http://edt.local:8079/#/networking](http://edt.local:8079/#/networking)
+Para testá-la, vá para o painel de administração e vá para a aba **Rede**, geralmente localizada em: [http://edt.local:8079/#/networking](http://edt.local:8079/#/networking)
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-The device will scan for nearby wifi hotspots. You can then select the one to connect to, enter the password and connect.
+O dispositivo irá procurar por pontos de acesso WiFi próximos. Em seguida, você pode selecionar aquele a que deseja se conectar, inserir a senha e conectar-se.

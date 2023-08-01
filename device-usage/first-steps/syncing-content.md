@@ -1,18 +1,17 @@
-# Syncing content
+# Sincronizando o conteúdo
 
-The Earth Defenders Offline Toolkit comes with an instance of [Syncthing](https://syncthing.net/) running, usually on the address: [http://edt.local:8082](http://edt.local:8082)
+O Earth Defenders Toolkit Offline vem com uma instância do [Syncthing](https://syncthing.net/) rodando, geralmente no endereço: [http://edt.local:8082](http://edt.local:8082)
 
-The default username is `admin` and password is `admin123.`
+O nome de usuário padrão é `admin` e a senha é `admin123.`
 
-The first time a device is connected it’ll send a request to Earth Defenders Toolkit Cloud to start syncing content. Get the ID from the the local Offline Toolkit Syncthing instance:
+Na primeira vez que um dispositivo é conectado, ele enviará uma solicitação para a Nuvem do Earth Defenders Toolkit para iniciar a sincronização do conteúdo. Obtenha o ID da instância local do Syncthing no Offline Toolkit:
 
 <figure><img src="../../.gitbook/assets/Untitled 5.png" alt=""><figcaption></figcaption></figure>
 
-Get in touch with us on [support.md](../../support.md "mention")and send along your Syncthing ID along with other information.
+Entre em contato conosco em [support.md](../../support.md "menção") e envie seu ID do Syncthing juntamente com outras informações.
 
-Once we authorize syncing from the EDT Cloud the local Offline Toolkit should start displaying syncing information:
+Assim que autorizarmos a sincronização pela Nuvem do EDT, o Offline Toolkit local começará a mostrar informações de sincronização:
 
 <figure><img src="../../.gitbook/assets/Untitled 10.png" alt=""><figcaption></figcaption></figure>
 
-Syncing can take a while because it's a few gigabytes of content. Once that's done, all content should be ready for offline use.
-
+A sincronização pode levar um tempo porque é alguns gigabytes de conteúdo. Depois disso, todo o conteúdo estará pronto para uso offline.

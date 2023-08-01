@@ -1,5 +1,5 @@
-# Mapeo Observations as Terrastories Places
+# Mapeo Observações como Lugares Terrastories
 
-On the configuration file included with the Offline Toolkit there's a Terrastories category. Every observation marked with it will be processed by the Mapeo Data Hub and placed on a csv file formatted for Terrastories.
+No arquivo de configuração incluso com o Offline Toolkit há uma categoria Terrastories. Toda observação marcada com ela será processada pelo Mapeo Data Hub e colocada em um arquivo csv formatado para Terrastories.
 
-Once imported into Terrastories, the obversations will be available as Places, and ready to be used to link to Stories and Speakers.
+Uma vez importadas para o Terrastories, as observações estarão disponíveis como Lugares e prontas para serem usadas para vincular a Histórias e Oradores.

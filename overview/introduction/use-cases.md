@@ -1,22 +1,22 @@
-# Use cases
+# Casos de uso
 
-The Earth Defenders Offline Toolkit is intended to be used by a group that has a common physical meeting space, which is the coverage area of the device's wifi. That coverage area can be small or large depending on the devices wifi radio, but can expand to cover large areas, such as villages, by connecting them to routers and expanded through mesh networks.
+O Earth Defenders Offline Toolkit destina-se a ser usado por um grupo que possui um espaço de reunião físico comum, que é a área de cobertura do wifi do dispositivo. Essa área de cobertura pode ser pequena ou grande, dependendo do rádio wifi do dispositivo, mas pode se expandir para cobrir grandes áreas, como vilas, conectando-as a roteadores e expandindo-se por meio de redes mesh.
 
-Offline Toolkit is meant to help groups onboard new users to the tools curated on the Earth Defenders Toolkit platform, as well as provide common helpful assets and helper applications for these tools. It can also assist organizing data in a local offline environment, and provide ways to sync and share data locally or through the Internet. It's also a great tool for partner organizations to organize and synchronize data with the ground communities.
+O Offline Toolkit tem como objetivo ajudar os grupos a integrar novos usuários às ferramentas reunidas na plataforma Earth Defenders Toolkit, além de fornecer ativos úteis comuns e aplicativos auxiliares para essas ferramentas. Ele também pode ajudar na organização de dados em um ambiente offline local e fornecer formas de sincronizar e compartilhar dados localmente ou pela Internet. É também uma ótima ferramenta para organizações parceiras se organizarem e sincronizarem dados com as comunidades locais.
 
-Some Offline Toolkit devices (such as single-board-computers) are small, but aren't so fragile, and with appropriate casing, they can easily travel within a backpack together with clothes.
+Alguns dispositivos Offline Toolkit (como placas únicas de computadores) são pequenos, mas não são tão frágeis e, com uma caixa apropriada, podem ser facilmente transportados em uma mochila juntamente com roupas.
 
-The toolkit can be used mobile, during meetings or fieldwork with the right power supply and weather protection.
+O toolkit pode ser utilizado móvel, durante reuniões ou trabalho de campo, desde que se tenha a fonte de energia e a proteção contra intempéries adequadas.
 
-It's also great for indoor spaces such as a house, a remote base or an office, as long as it’s protected from the weather and other possible hazards, such as children playing.
+Também é ótimo para espaços internos, como uma casa, uma base remota ou um escritório, contanto que esteja protegido do tempo e de outros possíveis riscos, como crianças brincando.
 
-The current included tool workflows are participatory mapping with Mapeo, and land-based story telling with Terrastories. These workflows are meant for:
+Os fluxos de trabalho das ferramentas atualmente incluídas são mapeamento participativo com o Mapeo e narração de histórias baseadas em territórios com Terrastories. Esses fluxos de trabalho são destinados a:
 
-* on-boarding new users to the tools through config files, map tiles etc.
-* providing mobile and desktop installers for the tools
-* providing bridging services between the tools
-* providing documentation and use cases for the tools
-* providing running instances of the tools, such as Mapeo and Terrastories
-* providing local storage for organization data (documents, photos, videos, folders, etc.)
-* providing p2p syncing of the stored data, locally or remotely
-* providing a way for all content to be updated whenever device is connected to the Internet
+* integrar novos usuários às ferramentas por meio de arquivos de configuração, tiles de mapa, etc.
+* fornecer instaladores móveis e desktop para as ferramentas
+* fornecer serviços de interligação entre as ferramentas
+* fornecer documentação e casos de uso para as ferramentas
+* fornecer instâncias em execução das ferramentas, como Mapeo e Terrastories
+* fornecer armazenamento local para dados de organização (documentos, fotos, vídeos, pastas, etc.)
+* fornecer sincronização ponto a ponto dos dados armazenados, local ou remotamente
+* fornecer uma maneira de atualizar todo o conteúdo sempre que o dispositivo estiver conectado à Internet.

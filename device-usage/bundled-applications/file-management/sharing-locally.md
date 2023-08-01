@@ -1,14 +1,11 @@
-# Sharing locally
+# Compartilhando localmente
 
-Everyone loggede to the community cloud has access to all folders. But in case you want to share a file with someone who isn't part of the community through the local network, you can use the **Share** functionality of the file browsing application.
+Todos os usuários logados na nuvem da comunidade têm acesso a todas as pastas. Mas caso você queira compartilhar um arquivo com alguém que não faz parte da comunidade através da rede local, você pode usar a funcionalidade **Compartilhar** do aplicativo de navegação de arquivos.
 
-Select the duration of the share, and if a password is needed, and finally click Share:
+Selecione a duração do compartilhamento e, se necessário, uma senha, e por fim clique em Compartilhar:
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Copy the address and share it through other means such as a chat app.
+Copie o endereço e compartilhe por outros meios, como um aplicativo de mensagens.
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-
-
-

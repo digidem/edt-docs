@@ -1,37 +1,37 @@
 ---
-description: These are the bundled applications that come with the Offline Toolkit.
+description: Esses são os aplicativos integrados que vêm com a Offline Toolkit.
 ---
 
-# Bundled applications
+# Aplicativos integrados
 
 #### [mapeo-data-hub](mapeo-data-hub/ "mention")
 
-Is a custom made application for the Offline Toolkit that intends to enable bridging content from Mapeo to Terrastories, as well as providing a better experience for Mapeo users.
+É um aplicativo personalizado feito para a Offline Toolkit que tem a intenção de possibilitar a integração de conteúdo do Mapeo com o Terrastories, além de oferecer uma experiência melhor para os usuários do Mapeo.
 
 #### [pataka.md](pataka.md "mention")
 
-An instance of Ahau's [Pataka](https://gitlab.com/ahau/pataka) application.
+Uma instância do aplicativo [Pataka](https://gitlab.com/ahau/pataka) de Ahau.
 
 #### [terrastories.md](terrastories.md "mention")
 
-An instance of [Terrastories](https://terrastories.app/) application.
+Uma instância do aplicativo [Terrastories](https://terrastories.app/).
 
 #### [file-management](file-management/ "mention")
 
-An instance of [FileBrowser](https://filebrowser.org/) application.
+Uma instância do aplicativo [FileBrowser](https://filebrowser.org/).
 
 #### [content-syncronization.md](content-syncronization.md "mention")
 
-An instance of [Syncthing](https://syncthing.net/) application that's pre-configured to send a sync requests for content folders to the official EDT Cloud.
+Uma instância do aplicativo [Syncthing](https://syncthing.net/) que já está pré-configurado para enviar solicitações de sincronização para as pastas de conteúdo na nuvem oficial da EDT.
 
-It can be customized to sync other folders by default, or used to sync any folder on the device. There are also mobile and desktop applications to sync with any device easily.
+Ele pode ser personalizado para sincronizar outras pastas por padrão ou usado para sincronizar qualquer pasta no dispositivo. Também existem aplicativos móveis e desktop para sincronizar com qualquer dispositivo facilmente.
 
 #### [application-installers.md](application-installers.md "mention")
 
-A simple custom made application that displays the installers for curated applications.
+Um aplicativo simples e personalizado que exibe os instaladores para os aplicativos selecionados.
 
 #### [tile-server.md](tile-server.md "mention")
 
-An instance of [Tileserver](https://github.com/maptiler/tileserver-gl).
+Uma instância de [Tileserver](https://github.com/maptiler/tileserver-gl).
 
 ####

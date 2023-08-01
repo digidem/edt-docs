@@ -1,9 +1,9 @@
 # Pataka
 
-The Earth Defenders Offline Toolkit comes with an instance of Āhau's Pataka running, usually on the address: [http://edt.local:8089](http://edt.local:8089)
+O Earth Defenders Offline Toolkit vem com uma instância do Pataka do Āhau em execução, geralmente no endereço: [http://edt.local:8089](http://edt.local:8089)
 
-Pataka is an application designed to be run as an always online peer. Ideally this peer is set up with a static, public IP address, (or port forwarding from one).
+Pataka é um aplicativo projetado para ser executado como um peer sempre online. Idealmente, esse peer é configurado com um endereço IP estático e público (ou redirecionamento de porta de um).
 
-This peer is not able to decrypt any messages (or file) that are private to groups, but will replicate these messages (and files) to ensure they are accessible even when the creator is offline, or so there is a backup.
+Este peer não é capaz de descriptografar mensagens (ou arquivo) que são privadas para grupos, mas replicará essas mensagens (e arquivos) para garantir que estejam acessíveis mesmo quando o criador está offline ou para que haja um backup.
 
-Refer to official website for now: [https://ahau.io/technology.html](https://ahau.io/technology.html)
+Consulte o site oficial por enquanto: [https://ahau.io/technology.html](https://ahau.io/technology.html)

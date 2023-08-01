@@ -1,14 +1,14 @@
-# File management
+# Gerenciamento de arquivos
 
-With the bundled Filebrowser application, community members can create their own accounts, upload and download files from a shared digital space.
+Com o aplicativo Filebrowser integrado, os membros da comunidade podem criar suas próprias contas, fazer upload e download de arquivos de um espaço digital compartilhado.
 
-An administrator can manage users, and different settings and have private content.
+Um administrador pode gerenciar usuários, diferentes configurações e ter conteúdo privado.
 
-The default username is `admin` and password is `admin123.`
+O nome de usuário padrão é `admin` e a senha é `admin123`.
 
-Check guides on:
+Verifique os guias em:
 
-* [storing-locally.md](storing-locally.md "mention")
-* [sharing-locally.md](sharing-locally.md "mention")
+* [storing-locally.md](storing-locally.md "mencionar")
+* [sharing-locally.md](sharing-locally.md "mencionar")
 
-For syncing content across diferent online or offline devices check the documentation on [content-syncronization.md](../content-syncronization.md "mention").&#x20;
+Para sincronizar conteúdo entre diferentes dispositivos online ou offline, verifique a documentação em [content-syncronization.md](../content-syncronization.md "mencionar").&#x20;

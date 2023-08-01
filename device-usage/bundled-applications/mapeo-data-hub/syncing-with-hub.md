@@ -1,14 +1,13 @@
-# Syncing with Hub
+# Sincronização com o Hub
 
-First connect to the Offline Toolkit's WiFi hotspot, or to a wifi network that it's also connected too.
+Primeiro, conecte-se ao ponto de acesso WiFi da Offline Toolkit, ou a uma rede WiFi à qual também esteja conectado.
 
-Open Mapeo and enter the sync page. Check [documentation on Mapeo sync](https://docs.mapeo.app/complete-reference-guide/mapeo-mobile-use/wifi-sync).
+Abra o Mapeo e acesse a página de sincronização. Consulte [a documentação sobre sincronização do Mapeo](https://docs.mapeo.app/complete-reference-guide/mapeo-mobile-use/wifi-sync).
 
-You should see the Offline Toolkit device showing up and ready to sync.
+Você verá o dispositivo Offline Toolkit aparecendo e pronto para sincronizar.
 
-If not you might need to change your project key. In case you don't have an existing project, download and use the custom Mapeo configuration that's provided, which comes preset with the same project key as the Hub.
+Caso contrário, você pode precisar alterar a chave do projeto. Caso não tenha um projeto existente, faça o download e use a configuração personalizada do Mapeo que é fornecida, pré-configurada com a mesma chave do projeto do Hub.
 
-If you already have a custom project key check [customization.md](customization.md "mention") to learn how to set the correct key for the Mapeo Data Hub to work for your team.
+Se você já tem uma chave de projeto personalizada, consulte [customization.md](customization.md "mention") para aprender como definir a chave correta para o Mapeo Data Hub funcionar para a sua equipe.
 
-Read more about project keys [here](https://docs.mapeo.app/complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/coding-configuration/adding-a-project-key).&#x20;
-
+Leia mais sobre chaves de projeto [aqui](https://docs.mapeo.app/complete-reference-guide/customization-options/custom-configurations/creating-custom-configurations/coding-configuration/adding-a-project-key).&#x20;

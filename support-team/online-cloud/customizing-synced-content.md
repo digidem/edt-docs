@@ -1,55 +1,51 @@
-# Customizing synced content
+# Personalização de conteúdo sincronizado
 
-### 1. Web scrapping
+### 1. Web scraping
 
-The scrapping of websites is done by [browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) command-line. Find more instructions in the [crawling documentation](https://www.notion.so/Web-Crawling-c8f980b0fac54cdc9c2d9a308461ddd9).
+A raspagem de sites é feita pelo comando [browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) na linha de comando. Encontre mais instruções na [documentação de raspagem](https://www.notion.so/Web-Crawling-c8f980b0fac54cdc9c2d9a308461ddd9).
 
-Some experimentation is needed to find best practices on how to get exactly the amount of pages we want scraped, and for each language.
+Algumas experimentações são necessárias para encontrar as melhores práticas sobre como obter exatamente a quantidade de páginas que desejamos raspar e para cada idioma.
 
-The scrapping might take a long time. Use the output warcz files on the next step.
+A raspagem pode levar muito tempo. Use os arquivos warcz de saída na próxima etapa.
 
-### 2. Upload to the Cloud
+### 2. Carregar para a nuvem
 
-Navigate to the [FileBrowser service](https://files.earthdefenderstoolkit.com) on the EDT cloud.
+Acesse o serviço do [FileBrowser](https://files.earthdefenderstoolkit.com) na nuvem do EDT.
 
 <figure><img src="../../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
 
-There are different directories within the `content` directory, each for a content type: F-Droid repository data; Desktop installers; Mapeo data (configs and tiles); and Offline Websites.
+Existem diferentes diretórios dentro do diretório `content`, cada um para um tipo de conteúdo: dados do repositório F-Droid; instaladores para desktop; dados do Mapeo (configurações e tiles); e websites offline.
 
-Create a new folder for your new content if needed:
+Crie uma nova pasta para o novo conteúdo, se necessário:
 
-Make sure there’s enough left storage on the server, and to upload new content simply drag to the folder or use the upload icon to select the file from your computer:
+Certifique-se de que há espaço de armazenamento suficiente no servidor e para carregar novo conteúdo basta arrastar para a pasta ou usar o ícone de upload para selecionar o arquivo no seu computador:
 
 <figure><img src="../../.gitbook/assets/Untitled 1 (1).png" alt=""><figcaption></figcaption></figure>
 
-Once the new content is uploaded we can sync it to EDT devices.
+Assim que o novo conteúdo for carregado, podemos sincronizá-lo nos dispositivos do EDT.
 
-### 3. Sync it
+### 3. Sincronize
 
-Navigate to the [Syncthing service](http://sync.earthdefenderstoolkit.com/) on the EDT cloud and follow the same steps as in [content-syncronization.md](../../device-usage/bundled-applications/content-syncronization.md "mention").
+Acesse o serviço [Syncthing](http://sync.earthdefenderstoolkit.com/) na nuvem do EDT e siga os mesmos passos como em [content-syncronization.md](../../device-usage/bundled-applications/content-syncronization.md "menção").
 
-### 4. Adding to device
+### 4. Adicionar ao dispositivo
 
-Check instructions on [syncing-content.md](../../device-usage/first-steps/syncing-content.md "mention")on how to start syncing with a new device. You'll how to get your Syncthing ID.
+Verifique as instruções em [syncing-content.md](../../device-usage/first-steps/syncing-content.md "menção") sobre como começar a sincronizar com um novo dispositivo. Você aprenderá como obter seu ID do Syncthing.
 
-On the EDT Cloud instance search for that ID:
-
-
+Na instância do EDT Cloud, pesquise por esse ID:
 
 <figure><img src="../../.gitbook/assets/Untitled 6 (1).png" alt=""><figcaption></figcaption></figure>
 
-Give the new device a descriptive name, and got to the **Sharing** page:
+Dê um nome descritivo ao novo dispositivo e vá para a página de **Compartilhamento**.<figure><img src="../../.gitbook/assets/Untitled 7.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Untitled 7.png" alt=""><figcaption></figcaption></figure>
-
-On the **Sharing** page select all the folders that are relevant for the new device, usually the defautls:
+Na página **Compartilhamento** selecione todas as pastas relevantes para o novo dispositivo, geralmente as defautls:
 
 <figure><img src="../../.gitbook/assets/Untitled 8 (1).png" alt=""><figcaption></figcaption></figure>
 
-On EDT Cloud you should see that the device is starting to sync:
+No EDT Cloud você deve ver que o dispositivo está começando a sincronizar:
 
 <figure><img src="../../.gitbook/assets/Untitled 9.png" alt=""><figcaption></figcaption></figure>
 
-On the local Offline Toolkit you should also see syncing happening with more details such as download rate, and amount synced so far.
+Na Offline Toolkit local você também deve ver a sincronização acontecendo com mais detalhes, como taxa de download e quantidade sincronizada até agora.
 
-You're done. Now every time the Cloud updates the content folder, the Offline Toolkit devices will automatically sync whenever they're online.
+Pronto. Agora, toda vez que a nuvem atualizar a pasta de conteúdo, os dispositivos Offline Toolkit sincronizarão automaticamente sempre que estiverem online.
